@@ -1,0 +1,2 @@
+import{r as e}from"./vendor-CBmAETR3.js";function f({interval:t,callback:s}){const u=e.useRef(),r=e.useRef(null);e.useEffect(()=>{u.current=s},[s]);const n=e.useCallback(()=>{r.current&&clearInterval(r.current),t>0&&(r.current=setInterval(()=>{u.current&&u.current(Date.now())},t))},[t]),c=e.useCallback(()=>{r.current&&(clearInterval(r.current),r.current=null)},[]);return e.useEffect(()=>(n(),()=>c()),[t,n,c]),{startTimer:n,stopTimer:c}}export{f as u};
+//# sourceMappingURL=useInterval-FApnpfRj.js.map

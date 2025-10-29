@@ -1,0 +1,488 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "total": 4,
+    "list": [
+      {
+        "showReverse": true,
+        "coinA": {
+          "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdt::USDT",
+          "symbol": "USDT8888888",
+          "decimals": 6,
+          "isVerified": true,
+          "logoURL": "https://bridge-assets.sui.io/usdt.png"
+        },
+        "coinB": {
+          "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdc::USDC",
+          "symbol": "USDC",
+          "decimals": 6,
+          "isVerified": true,
+          "logoURL": "https://www.circle.com/hubfs/Brand/USDC/USDC_icon_32x32.png"
+        },
+        "pools": [
+          {
+            "pool": "0xffd4260d625f99349542badf632037c824ad919425ee227de1745b19edc05133",
+            "binStep": 10,
+            "baseFeeRate": 0.001,
+            "protocolFeeRate": 0.0000025,
+            "tvl": "1305.965187",
+            "totalApr": "17.0430896849834939",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "1073.098838",
+                "fee": "1.252332978398245484",
+                "apr": "0.350010506915097"
+              },
+              {
+                "dateType": "7D",
+                "vol": "1145.411549",
+                "fee": "1.330813543544022087",
+                "apr": "0.0617756322408215"
+              },
+              {
+                "dateType": "30D",
+                "vol": "1145.411549",
+                "fee": "1.330813543544022087",
+                "apr": "0.0144143141895165"
+              }
+            ],
+            "miningRewarders": [
+              {
+                "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdc::USDC",
+                "symbol": "USDC",
+                "decimals": 6,
+                "logoURL": "https://www.circle.com/hubfs/Brand/USDC/USDC_icon_32x32.png",
+                "display": true,
+                "apr": "16.6930791780683969",
+                "emissionsPerSecond": "0.000691291865499489481"
+              }
+            ]
+          },
+          {
+            "pool": "0xb39c78bf8a818386fc2f8f5bb0b4c4995dfc39dc2c56136769c586395e57f10b",
+            "binStep": 2,
+            "baseFeeRate": 0.00004,
+            "protocolFeeRate": 0.25,
+            "tvl": "438.556043",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          },
+          {
+            "pool": "0xdc64bb03af4976ad0386f6106bc12aad78132e273b15db5234eebdc3933bf021",
+            "binStep": 1,
+            "baseFeeRate": 0.0001,
+            "protocolFeeRate": 0.2,
+            "tvl": "23.98158",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "showReverse": true,
+        "coinA": {
+          "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdt::USDT",
+          "symbol": "USDT8888888",
+          "decimals": 6,
+          "isVerified": true,
+          "logoURL": "https://bridge-assets.sui.io/usdt.png"
+        },
+        "coinB": {
+          "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+          "symbol": "SUI",
+          "decimals": 9,
+          "isVerified": true,
+          "logoURL": "https://archive.cetus.zone/assets/image/sui/sui.png"
+        },
+        "pools": [
+          {
+            "pool": "0xfe2fd535301915670597181fbd48558a2b3cc1a4a4064a7cec17c68b0fe230f4",
+            "binStep": 1,
+            "baseFeeRate": 0.0001,
+            "protocolFeeRate": 0.2,
+            "tvl": "35",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "showReverse": true,
+        "coinA": {
+          "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdc::USDC",
+          "symbol": "USDC",
+          "decimals": 6,
+          "isVerified": true,
+          "logoURL": "https://www.circle.com/hubfs/Brand/USDC/USDC_icon_32x32.png"
+        },
+        "coinB": {
+          "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+          "symbol": "SUI",
+          "decimals": 9,
+          "isVerified": true,
+          "logoURL": "https://archive.cetus.zone/assets/image/sui/sui.png"
+        },
+        "pools": [
+          {
+            "pool": "0x00eabc20c0bf24c89ca8d71f689f519471779c54ed570523c99e99e4f8d572de",
+            "binStep": 1,
+            "baseFeeRate": 0.0002,
+            "protocolFeeRate": 0.2,
+            "tvl": "303.28622924",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "21",
+                "fee": "0.0062000000059342",
+                "apr": "0.001871620578307"
+              },
+              {
+                "dateType": "30D",
+                "vol": "21",
+                "fee": "0.0062000000059342",
+                "apr": "0.001871620578307"
+              }
+            ]
+          },
+          {
+            "pool": "0xa6ce6ce1d11bf183858cd732fb8e4e61b0a0e3b57a7d92534e8011daf40eddeb",
+            "binStep": 2,
+            "baseFeeRate": 0.0004,
+            "protocolFeeRate": 0.2,
+            "tvl": "136.4867779725",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "5",
+                "fee": "0.002012999999999945",
+                "apr": "0.0013663672863145"
+              },
+              {
+                "dateType": "30D",
+                "vol": "5",
+                "fee": "0.002012999999999945",
+                "apr": "0.0013663672863145"
+              }
+            ]
+          },
+          {
+            "pool": "0xdabafe344c792f0309f72673672c1b37fc70d545e2af2bbcffbce5a1b727b84c",
+            "binStep": 100,
+            "baseFeeRate": 0.008,
+            "protocolFeeRate": 0.2,
+            "tvl": "2.9807933275",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          },
+          {
+            "pool": "0x824dc354d23f2fecd60fdbd8514e42ae8e77f95e896e10e392c8666664505706",
+            "binStep": 50,
+            "baseFeeRate": 0.004,
+            "protocolFeeRate": 0.2,
+            "tvl": "4.5585136975",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          },
+          {
+            "pool": "0xed7429142e8ca4c64d9e8f1dff9fdd5c9e09502930c00b7cae1eb78f20b72746",
+            "binStep": 2,
+            "baseFeeRate": 0.0003,
+            "protocolFeeRate": 0.2,
+            "tvl": "9.999999",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          },
+          {
+            "pool": "0x8876bcac0bc2baf990e4fc87055a2e9f7eb3d0f020453c19d18a0cd18337d275",
+            "binStep": 5,
+            "baseFeeRate": 0.0005,
+            "protocolFeeRate": 0.2,
+            "tvl": "42.838933585",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "1",
+                "fee": "0.0041750000280901",
+                "apr": "0.012400790070413"
+              },
+              {
+                "dateType": "30D",
+                "vol": "1",
+                "fee": "0.0041750000280901",
+                "apr": "0.012400790070413"
+              }
+            ]
+          },
+          {
+            "pool": "0x8db857d817aa118762ad1058756d0384724e87efb00a3810a23c64aaeb92f85d",
+            "binStep": 10,
+            "baseFeeRate": 0.001,
+            "protocolFeeRate": 0.2,
+            "tvl": "2.9604817",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          },
+          {
+            "pool": "0xe9408f4fd82361a3ffec57934d2479d816aba6f34cbafc68ab7aa86bed144d2f",
+            "binStep": 1,
+            "baseFeeRate": 0.0001,
+            "protocolFeeRate": 0.2,
+            "tvl": "14.8268002075",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          },
+          {
+            "pool": "0xf15575fc31b8629ae3296be22ca52736039a9dc8a2abc5d50e23d0108cbe6d5a",
+            "binStep": 25,
+            "baseFeeRate": 0.0025,
+            "protocolFeeRate": 0.2,
+            "tvl": "65.7923188675",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "showReverse": false,
+        "coinA": {
+          "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::cetus::CETUS",
+          "symbol": "CETUS",
+          "decimals": 9,
+          "isVerified": true,
+          "logoURL": "https://uxcdefo3r2uemooidt2kk2stykakvwd2m6nasg5lhbfaxemm4i3a.arweave.net/pcQyFduOqEY5yBz0pWpTwoCq2HpnmgkbqzhKC5GM4jY"
+        },
+        "coinB": {
+          "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+          "symbol": "SUI",
+          "decimals": 9,
+          "isVerified": true,
+          "logoURL": "https://archive.cetus.zone/assets/image/sui/sui.png"
+        },
+        "pools": [
+          {
+            "pool": "0x294de13c8245efec5178ae89396b730a3f95366ee749ba4789d301507df04811",
+            "binStep": 25,
+            "baseFeeRate": 0.0025,
+            "protocolFeeRate": 0.2,
+            "tvl": "118.346108398",
+            "totalApr": "0",
+            "stats": [
+              {
+                "dateType": "24H",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "7D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              },
+              {
+                "dateType": "30D",
+                "vol": "0",
+                "fee": "0",
+                "apr": "0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
