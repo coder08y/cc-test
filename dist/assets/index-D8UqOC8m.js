@@ -1,2 +1,1 @@
 import{r as n}from"./vendor-CBmAETR3.js";function e(r){var t=n.useRef(r);return t.current=r,t}var f=function(r){var t=e(r);n.useEffect(function(){return function(){t.current()}},[])};export{e as a,f as u};
-//# sourceMappingURL=index-D8UqOC8m.js.map
