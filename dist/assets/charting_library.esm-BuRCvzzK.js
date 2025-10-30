@@ -88,4 +88,3 @@ ${function(C,Yt,Xt){if(C===void 0)return"";const T=[],b=[];for(const d of C)d.en
 		version="CL v29.6.0 (internal id 7388a2a6e02df803a33011b40077c533f89a55f0 @ 2025-08-13T13:50:29.067Z)" id="${this._id}" name="${this._id}" src="${l.href}" data-widget-options="${c}"
 		${this._options.autosize||this._options.fullscreen?"":`width="${this._options.width}" height="${this._options.height}"`} title="Financial Chart" frameborder="0" allowTransparency="true" scrolling="no" allowfullscreen style="display:block;">
 	</iframe>`,h]}};typeof window<"u"&&(window.TradingView=window.TradingView||{},window.TradingView.version=oe);const re=!(typeof window>"u"||!window.navigator||!window.navigator.userAgent)&&window.navigator.userAgent.includes("CriOS");export{se as C,le as E};
-//# sourceMappingURL=charting_library.esm-BuRCvzzK.js.map
