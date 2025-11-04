@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:dist/assets/IconBg-muI5KCVs.js
-import{j as r,F as x}from"./vendor-CBmAETR3.js";import{I as p}from"./index-DeNjt2qE.js";function d(o){const{svgHover:e="text_caption",svgFill:t="text_paragraph",xlinkHref:n,onClick:s,variant:i="solid",...a}=o;return r.jsx(x,{bg:"bg_secondary",borderRadius:"12px",w:"40px",h:"40px",alignItems:"center",justifyContent:"center",border:"1px solid",borderColor:"border",cursor:"pointer",...a,onClick:s,children:r.jsx(p,{svgHover:e,svgFill:t,xlinkHref:n,variant:i})})}export{d as I};
-========
-import{j as r,F as x}from"./vendor-CBmAETR3.js";import{I as p}from"./index-B_k60FR0.js";function d(o){const{svgHover:e="text_caption",svgFill:t="text_paragraph",xlinkHref:n,onClick:s,variant:i="solid",...a}=o;return r.jsx(x,{bg:"bg_secondary",borderRadius:"12px",w:"40px",h:"40px",alignItems:"center",justifyContent:"center",border:"1px solid",borderColor:"border",cursor:"pointer",...a,onClick:s,children:r.jsx(p,{svgHover:e,svgFill:t,xlinkHref:n,variant:i})})}export{d as I};
->>>>>>>> 993ad5d32578dba94f683c2fff514ecc7156ec39:dist/assets/IconBg-Su51rOLp.js
