@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:dist/assets/IconBg-yAZ5pRsN.js
-import{j as r,F as x}from"./vendor-N9FT5NFm.js";import{I as p}from"./index-ByUtbMXc.js";function d(o){const{svgHover:e="text_caption",svgFill:t="text_paragraph",xlinkHref:n,onClick:s,variant:i="solid",...a}=o;return r.jsx(x,{bg:"bg_secondary",borderRadius:"12px",w:"40px",h:"40px",alignItems:"center",justifyContent:"center",border:"1px solid",borderColor:"border",cursor:"pointer",...a,onClick:s,children:r.jsx(p,{svgHover:e,svgFill:t,xlinkHref:n,variant:i})})}export{d as I};
-========
-import{j as r,F as x}from"./vendor-N9FT5NFm.js";import{I as p}from"./index-BvezuMHp.js";function d(o){const{svgHover:e="text_caption",svgFill:t="text_paragraph",xlinkHref:n,onClick:s,variant:i="solid",...a}=o;return r.jsx(x,{bg:"bg_secondary",borderRadius:"12px",w:"40px",h:"40px",alignItems:"center",justifyContent:"center",border:"1px solid",borderColor:"border",cursor:"pointer",...a,onClick:s,children:r.jsx(p,{svgHover:e,svgFill:t,xlinkHref:n,variant:i})})}export{d as I};
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/IconBg-BKHzdnMy.js

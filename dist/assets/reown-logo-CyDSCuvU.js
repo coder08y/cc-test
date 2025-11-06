@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/reown-logo-CyDSCuvU.js
 import{ap as C}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const i=C`<svg width="60" height="16" viewBox="0 0 60 16" fill="none"">
-========
-import{ap as C}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const i=C`<svg width="60" height="16" viewBox="0 0 60 16" fill="none"">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/reown-logo-1rmgZpIz.js
   <path d="M9.3335 4.66667C9.3335 2.08934 11.4229 0 14.0002 0H20.6669C23.2442 0 25.3335 2.08934 25.3335 4.66667V11.3333C25.3335 13.9106 23.2442 16 20.6669 16H14.0002C11.4229 16 9.3335 13.9106 9.3335 11.3333V4.66667Z" fill="#363636"/>
   <path d="M15.6055 11.0003L17.9448 4.66699H18.6316L16.2923 11.0003H15.6055Z" fill="#F6F6F6"/>
   <path d="M0 4.33333C0 1.9401 1.9401 0 4.33333 0C6.72657 0 8.66669 1.9401 8.66669 4.33333V11.6667C8.66669 14.0599 6.72657 16 4.33333 16C1.9401 16 0 14.0599 0 11.6667V4.33333Z" fill="#363636"/>

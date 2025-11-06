@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/swapHorizontalMedium-Ccpl3xNY.js
 import{ap as C}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const l=C`<svg
-========
-import{ap as C}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const l=C`<svg
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/swapHorizontalMedium-DORG14LT.js
   width="14"
   height="14"
   viewBox="0 0 14 14"

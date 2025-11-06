@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/chrome-store-30ZfSHgK.js
 import{ap as t}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const i=t`<svg width="36" height="36" fill="none">
-========
-import{ap as t}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const i=t`<svg width="36" height="36" fill="none">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/chrome-store-CymGkr4n.js
   <path
     fill="#fff"
     fill-opacity=".05"

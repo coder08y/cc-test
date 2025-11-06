@@ -1,5 +1,1 @@
-<<<<<<<< HEAD:dist/assets/useRpcListener-DBvIXGnZ.js
 import{a3 as f,a4 as a}from"./index-ByUtbMXc.js";import{r as n}from"./vendor-N9FT5NFm.js";import{u as o}from"./usePreviousValue-GMchqms5.js";function m({onRpcChange:r}){const{isInitLoading:i}=f(),{currentNode:s}=a(),e=o(s),t=n.useRef(!1);n.useEffect(()=>{e&&s&&e.link!==(s==null?void 0:s.link)&&(t.current=!0)},[e==null?void 0:e.link,s==null?void 0:s.link,i]),n.useEffect(()=>{t.current&&!i&&(r(),t.current=!1)},[i,t.current])}export{m as u};
-========
-import{a3 as f,a4 as a}from"./index-BvezuMHp.js";import{r as n}from"./vendor-N9FT5NFm.js";import{u as o}from"./usePreviousValue-GMchqms5.js";function m({onRpcChange:r}){const{isInitLoading:i}=f(),{currentNode:s}=a(),e=o(s),t=n.useRef(!1);n.useEffect(()=>{e&&s&&e.link!==(s==null?void 0:s.link)&&(t.current=!0)},[e==null?void 0:e.link,s==null?void 0:s.link,i]),n.useEffect(()=>{t.current&&!i&&(r(),t.current=!1)},[i,t.current])}export{m as u};
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/useRpcListener-PTS9g3tZ.js

@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/id-myh2b_cx.js
 import{ap as c}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const v=c`<svg
-========
-import{ap as c}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const v=c`<svg
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/id-B0x3GmK9.js
  xmlns="http://www.w3.org/2000/svg"
  width="28"
  height="28"

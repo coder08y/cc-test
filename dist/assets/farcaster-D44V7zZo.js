@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/farcaster-D44V7zZo.js
 import{ap as h}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const r=h`<svg style="border-radius: 9999px; overflow: hidden;"  fill="none" viewBox="0 0 1000 1000">
-========
-import{ap as h}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const r=h`<svg style="border-radius: 9999px; overflow: hidden;"  fill="none" viewBox="0 0 1000 1000">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/farcaster-Cc31H71U.js
   <rect width="1000" height="1000" rx="9999" ry="9999" fill="#855DCD"/>
   <path fill="#855DCD" d="M0 0h1000v1000H0V0Z" />
   <path

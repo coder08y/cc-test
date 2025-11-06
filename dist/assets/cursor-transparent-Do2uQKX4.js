@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/cursor-transparent-Do2uQKX4.js
 import{ap as o}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const l=o`<svg fill="none" viewBox="0 0 14 6">
-========
-import{ap as o}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const l=o`<svg fill="none" viewBox="0 0 14 6">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/cursor-transparent-CtDZqUqn.js
   <path style="fill: var(--wui-color-bg-150);" d="M0 1h14L9.21 5.12a3.31 3.31 0 0 1-4.49 0L0 1Z" />
   <path
     style="stroke: var(--wui-color-inverse-100);"

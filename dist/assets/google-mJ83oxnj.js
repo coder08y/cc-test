@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/google-mJ83oxnj.js
 import{ap as l}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const p=l`<svg fill="none" viewBox="0 0 40 40">
-========
-import{ap as l}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const p=l`<svg fill="none" viewBox="0 0 40 40">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/google-DzYg2VP7.js
   <path
     fill="#4285F4"
     d="M32.74 20.3c0-.93-.08-1.81-.24-2.66H20.26v5.03h7a6 6 0 0 1-2.62 3.91v3.28h4.22c2.46-2.27 3.88-5.6 3.88-9.56Z"

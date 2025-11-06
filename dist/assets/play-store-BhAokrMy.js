@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/play-store-BhAokrMy.js
 import{ap as a}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const i=a` <svg
-========
-import{ap as a}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const i=a` <svg
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/play-store-C08yAYgF.js
   width="36"
   height="36"
   fill="none"

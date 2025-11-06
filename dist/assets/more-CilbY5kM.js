@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/more-CilbY5kM.js
 import{ap as o}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const t=o`<svg fill="none" viewBox="0 0 41 40">
-========
-import{ap as o}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const t=o`<svg fill="none" viewBox="0 0 41 40">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/more-DEVS9-cu.js
   <path
     style="fill: var(--wui-color-fg-100);"
     fill-opacity=".05"

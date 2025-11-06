@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/copy-BFMVK3od.js
 import{ap as C}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const i=C`<svg
-========
-import{ap as C}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const i=C`<svg
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/copy-BXhEyG-h.js
   xmlns="http://www.w3.org/2000/svg"
   width="16"
   height="16"

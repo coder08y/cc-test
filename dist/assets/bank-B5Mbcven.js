@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/bank-B5Mbcven.js
 import{ap as o}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const t=o`<svg
-========
-import{ap as o}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const t=o`<svg
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/bank-BaDLmZwE.js
   xmlns="http://www.w3.org/2000/svg"
   width="12"
   height="13"

@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/async-directive-vphN6EAn.js
 import"./index-ByUtbMXc.js";import{i as _,t as c}from"./class-map-Bc8mD0AA.js";/**
-========
-import"./index-BvezuMHp.js";import{i as _,t as c}from"./class-map-H0-7GBLw.js";/**
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/async-directive-CkY5ADbb.js
  * @license
  * Copyright 2020 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause

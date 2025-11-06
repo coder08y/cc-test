@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/checkmark-Bb7CDNd7.js
 import{ap as o}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const t=o`<svg
-========
-import{ap as o}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const t=o`<svg
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/checkmark-yScegVkK.js
   width="28"
   height="28"
   viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">

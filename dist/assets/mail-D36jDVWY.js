@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/mail-D36jDVWY.js
 import{ap as c}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const r=c`<svg fill="none" viewBox="0 0 16 16">
-========
-import{ap as c}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const r=c`<svg fill="none" viewBox="0 0 16 16">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/mail-DStgr1FY.js
   <path
     fill="currentColor"
     fill-rule="evenodd"

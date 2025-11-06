@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/warning-circle-S3Vy3KV-.js
 import{ap as r}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const i=r`<svg fill="none" viewBox="0 0 20 20">
-========
-import{ap as r}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const i=r`<svg fill="none" viewBox="0 0 20 20">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/warning-circle-BGS2hHmK.js
   <path
     fill="currentColor"
     d="M11 6.67a1 1 0 1 0-2 0v2.66a1 1 0 0 0 2 0V6.67ZM10 14.5a1.25 1.25 0 1 0 0-2.5 1.25 1.25 0 0 0 0 2.5Z"

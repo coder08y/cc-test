@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/wallet-placeholder-CzsQIDnp.js
 import{ap as a}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const e=a`
-========
-import{ap as a}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const e=a`
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/wallet-placeholder-bjaxk2Ks.js
   <svg fill="none" viewBox="0 0 48 44">
     <path
       style="fill: var(--wui-color-bg-300);"

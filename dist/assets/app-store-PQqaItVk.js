@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/app-store-PQqaItVk.js
 import{ap as t}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const e=t`
-========
-import{ap as t}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const e=t`
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/app-store-DnNxKSaY.js
 <svg width="36" height="36">
   <path
     d="M28.724 0H7.271A7.269 7.269 0 0 0 0 7.272v21.46A7.268 7.268 0 0 0 7.271 36H28.73A7.272 7.272 0 0 0 36 28.728V7.272A7.275 7.275 0 0 0 28.724 0Z"

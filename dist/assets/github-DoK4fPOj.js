@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/github-DoK4fPOj.js
 import{ap as i}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const t=i`<svg fill="none" viewBox="0 0 40 40">
-========
-import{ap as i}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const t=i`<svg fill="none" viewBox="0 0 40 40">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/github-BR0tw66z.js
   <g clip-path="url(#a)">
     <g clip-path="url(#b)">
       <circle cx="20" cy="19.89" r="20" fill="#1B1F23" />

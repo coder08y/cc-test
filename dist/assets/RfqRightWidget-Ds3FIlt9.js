@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/RfqRightWidget-Ds3FIlt9.js
 import{r as h,j as e,V as b,H as s,n as w,T as i,w as j,ag as c,m as A}from"./vendor-N9FT5NFm.js";import{u as y,S as k}from"./SolidPieCountdown-DUI6-KRG.js";import{Q as S,u as U,E as f,t as v,q as z,I}from"./index-ByUtbMXc.js";import"./cross-MVfrlKDn.js";import{C as R}from"./CurrentPrice-CML4z_WH.js";import{R as T}from"./AggregatorModal-Cq09vD9X.js";const W=c`
-========
-import{r as h,j as e,V as b,H as s,n as w,T as i,w as j,ag as c,m as A}from"./vendor-N9FT5NFm.js";import{u as y,S as k}from"./SolidPieCountdown-DUI6-KRG.js";import{Q as S,u as U,E as f,t as v,q as z,I}from"./index-BvezuMHp.js";import"./cross-CP3tRv5S.js";import{C as R}from"./CurrentPrice-hSOJFcQB.js";import{R as T}from"./AggregatorModal-CrVMTf-x.js";const W=c`
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/RfqRightWidget-wLo61XYq.js
   from {
     opacity: 0;
   }

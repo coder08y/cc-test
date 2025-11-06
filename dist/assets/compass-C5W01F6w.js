@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/compass-C5W01F6w.js
 import{ap as l}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const r=l`<svg fill="none" viewBox="0 0 16 16">
-========
-import{ap as l}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const r=l`<svg fill="none" viewBox="0 0 16 16">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/compass-B8uxdcuN.js
   <path
     fill="currentColor"
     fill-rule="evenodd"

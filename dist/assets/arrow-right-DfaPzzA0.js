@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:dist/assets/arrow-right-DfaPzzA0.js
 import{ap as l}from"./index-ByUtbMXc.js";import"./vendor-N9FT5NFm.js";import"./cross-MVfrlKDn.js";const i=l`<svg fill="none" viewBox="0 0 14 15">
-========
-import{ap as l}from"./index-BvezuMHp.js";import"./vendor-N9FT5NFm.js";import"./cross-CP3tRv5S.js";const i=l`<svg fill="none" viewBox="0 0 14 15">
->>>>>>>> 6b4d5d984589627c2ce55f9a93f4b8a98564e567:dist/assets/arrow-right-BrGv6_t0.js
   <path
     fill="currentColor"
     fill-rule="evenodd"
