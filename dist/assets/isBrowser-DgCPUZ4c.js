@@ -1,1 +1,0 @@
-function t(r,n){if(r===n)return!0;for(var e=0;e<r.length;e++)if(!Object.is(r[e],n[e]))return!1;return!0}var u=!!(typeof window<"u"&&window.document&&window.document.createElement);export{t as d,u as i};

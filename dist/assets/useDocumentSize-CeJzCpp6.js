@@ -1,0 +1,2 @@
+import{u as o}from"./index-BAtnEiaK.js";import{r as i}from"./vendor-_HhPRkxb.js";function u(){const[t,n]=i.useState({w:document.documentElement.clientWidth,h:document.documentElement.clientHeight}),e=()=>{n({w:document.documentElement.clientWidth,h:document.documentElement.clientHeight})};return o(()=>(window.addEventListener("resize",e),()=>{window.removeEventListener("resize",e)}),[],{wait:500}),{size:t}}export{u};
+//# sourceMappingURL=useDocumentSize-CeJzCpp6.js.map
