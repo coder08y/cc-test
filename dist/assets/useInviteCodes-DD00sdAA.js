@@ -1,2 +1,0 @@
-import{a as f,au as a}from"./index-CRHdVoNQ.js";import{r as s}from"./vendor-_HhPRkxb.js";function m(){const[e,c]=s.useState([]),{verifyInviteCodes:t,setVerifyInviteCodes:n}=f();s.useEffect(()=>{e.length===0&&a},[]);const o=r=>{const i=e.includes(r.trim());return i&&n(r),i},u=s.useMemo(()=>e.length===0?!0:t?e.includes(t.trim()):!1,[t,e]);return{handleVerifyInviteCode:o,hasAccessPermission:u}}export{m as u};
-//# sourceMappingURL=useInviteCodes-DD00sdAA.js.map
