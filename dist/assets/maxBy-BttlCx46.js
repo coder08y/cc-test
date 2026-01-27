@@ -1,1 +1,0 @@
-import{cC as a,cD as b}from"./index-Dxgg_Ksu.js";function d(e,i){return e>i}function h(e,i,l){for(var t=-1,m=e.length;++t<m;){var f=e[t],n=i(f);if(n!=null&&(s===void 0?n===n&&!a(n):l(n,s)))var s=n,o=f}return o}function g(e,i){return e&&e.length?h(e,b(i),d):void 0}export{g as m};
