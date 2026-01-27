@@ -1,0 +1,227 @@
+/* Generated via BX-AE2CSS by BigXiXi */
+.mining_composition {
+  background: transparent;
+  width: 56px;
+  height: 56px;
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  transform-origin: 0px 50%;
+  left: -4px;
+  top: -18px;
+}
+.mining_class3 {
+  left: 8px;
+  top: 8px;
+  width: 40px;
+  height: 40px;
+  transform-style: preserve-3d;
+  transform: translate3D(0, 0, 0px) rotate(0deg) scale(1, 1);
+  opacity: 1;
+  transform-origin: 17.5% 82.5%;
+  display: block;
+  position: absolute;
+}
+.mining_bg3 {
+  background: url("../images/mining/mining_pickaxe.png");
+}
+.mining_ani3 {
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: mining_ani_key3 1s steps(1) 0s infinite normal none;
+}
+@keyframes mining_ani_key3 {
+  0.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(0deg) scale(1, 1);
+  }
+  3.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(-0.96deg) scale(1, 1);
+  }
+  6.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(-3.53deg) scale(1, 1);
+  }
+  10.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(-7.26deg) scale(1, 1);
+  }
+  13.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(-11.68deg) scale(1, 1);
+  }
+  16.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(-16.32deg) scale(1, 1);
+  }
+  20.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(-20.74deg) scale(1, 1);
+  }
+  23.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(-24.47deg) scale(1, 1);
+  }
+  26.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(-27.04deg) scale(1, 1);
+  }
+  30.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(-28deg) scale(1, 1);
+  }
+  33.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(-24.74deg) scale(1, 1);
+  }
+  36.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(-16.59deg) scale(1, 1);
+  }
+  40.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(-6deg) scale(1, 1);
+  }
+  43.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(4.59deg) scale(1, 1);
+  }
+  46.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(12.74deg) scale(1, 1);
+  }
+  50.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(16deg) scale(1, 1);
+  }
+  53.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(12.3deg) scale(1, 1);
+  }
+  56.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(4.74deg) scale(1, 1);
+  }
+  60.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(-3.54deg) scale(1, 1);
+  }
+  63.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(-5.43deg) scale(1, 1);
+  }
+  66.67% {
+    transform: translate3D(0px, 0px, 0px) rotate(-3.51deg) scale(1, 1);
+  }
+  70.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(-1.48deg) scale(1, 1);
+  }
+  73.33% {
+    transform: translate3D(0px, 0px, 0px) rotate(0deg) scale(1, 1);
+  }
+  100.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(0deg) scale(1, 1);
+  }
+}
+.mining_class2 {
+  left: 28px;
+  top: 28px;
+  width: 20px;
+  height: 20px;
+  transform-style: preserve-3d;
+  transform: translate3D(0, 0, 0px) rotate(0deg) scale(1, 1);
+  opacity: 1;
+  transform-origin: 50% 50%;
+  display: block;
+  position: absolute;
+}
+.mining_bg2 {
+  background: url("../images/mining/mining_coin.png");
+}
+.mining_ani2 {
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: mining_ani_key2 1s steps(1) 0s infinite normal none;
+}
+@keyframes mining_ani_key2 {
+  0.00% {
+    opacity: 1;
+  }
+  3.33% {
+    opacity: 0.83;
+  }
+  6.67% {
+    opacity: 0.67;
+  }
+  10.00% {
+    opacity: 0.5;
+  }
+  13.33% {
+    opacity: 0.33;
+  }
+  16.67% {
+    opacity: 0.17;
+  }
+  20.00% {
+    opacity: 0;
+  }
+  100.00% {
+    opacity: 0;
+  }
+}
+.mining_class1 {
+  left: 28px;
+  top: 28px;
+  width: 20px;
+  height: 20px;
+  transform-style: preserve-3d;
+  transform: translate3D(0, 0, 0px) rotate(0deg) scale(0, 0);
+  opacity: 1;
+  transform-origin: 50% 100%;
+  display: block;
+  position: absolute;
+}
+.mining_bg1 {
+  background: url("../images/mining/mining_coin.png");
+}
+.mining_ani1 {
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: mining_ani_key1 1s steps(1) 0s infinite normal none;
+}
+@keyframes mining_ani_key1 {
+  0.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(0deg) scale(0, 0);
+  }
+  53.33% {
+    transform: translate3D(0px, -0.1px, 0px) rotate(0deg) scale(0.05248000063555, 0.05248000063555);
+  }
+  56.67% {
+    transform: translate3D(-0px, -0.35px, 0px) rotate(0deg) scale(0.18944000115899, 0.18944000115899);
+  }
+  60.00% {
+    transform: translate3D(0px, -0.71px, 0px) rotate(0deg) scale(0.38016000074188, 0.38016000074188);
+  }
+  63.33% {
+    transform: translate3D(0px, -1.1px, 0px) rotate(0deg) scale(0.59391999973237, 0.59391999973237);
+  }
+  66.67% {
+    transform: translate3D(0px, -1.48px, 0px) rotate(0deg) scale(0.79999999893724, 0.79999999893724);
+  }
+  70.00% {
+    transform: translate3D(0px, -1.79px, 0px) rotate(0deg) scale(0.9676799990016, 0.9676799990016);
+  }
+  73.33% {
+    transform: translate3D(0px, -1.97px, 0px) rotate(0deg) scale(1.06623999978411, 1.06623999978411);
+  }
+  76.67% {
+    transform: translate3D(0px, -1.97px, 0px) rotate(0deg) scale(1.07770666663048, 1.07770666663048);
+  }
+  80.00% {
+    transform: translate3D(0px, -1.79px, 0px) rotate(0deg) scale(1.06127999983308, 1.06127999983308);
+  }
+  83.33% {
+    transform: translate3D(0px, -1.48px, 0px) rotate(0deg) scale(1.03333333315549, 1.03333333315549);
+  }
+  86.67% {
+    transform: translate3D(0px, -1.1px, 0px) rotate(0deg) scale(0.99898666662126, 0.99898666662126);
+  }
+  90.00% {
+    transform: translate3D(0px, -0.71px, 0px) rotate(0deg) scale(0.96336000012287, 0.96336000012287);
+  }
+  93.33% {
+    transform: translate3D(0px, -0.35px, 0px) rotate(0deg) scale(0.93157333352587, 0.93157333352587);
+  }
+  96.67% {
+    transform: translate3D(0px, -0.1px, 0px) rotate(0deg) scale(0.90874666677222, 0.90874666677222);
+  }
+  100.00% {
+    transform: translate3D(0px, 0px, 0px) rotate(0deg) scale(0.9, 0.9);
+  }
+}
+
+/* @media (max-width: 768px) {
+  .mining_composition {
+    transform: translate3D(0, 0, 0) scale(0.30, 0.30);
+    top: -18px;
+    left: -2px;
+  }
+} */

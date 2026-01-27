@@ -1,0 +1,63 @@
+.flexlayout__layout {
+  width: 100% !important;
+  --color-background: #161616 !important;
+}
+
+.flexlayout__splitter {
+  background-color: #161616 !important;
+}
+
+.flexlayout__tab {
+  /* background: #0f0f0f !important; */
+  border-radius: 8px !important;
+}
+
+.flexlayout__tab_moveable {
+  overflow: hidden !important;
+  /* background: #0f0f0f !important; */
+}
+
+/* 拖动指示器样式 - 在 hover 和拖动时显示 */
+.flexlayout__splitter_drag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  background-clip: content-box;
+  padding: 1px;
+  background-color: #75c8ff !important;
+}
+
+/* 拖动指示器内部 handle 样式 */
+.flexlayout__splitter_handle {
+  background-color: #75c8ff !important;
+  border-radius: 3px;
+}
+
+.flexlayout__splitter_handle_horz {
+  width: 3px;
+  height: 30px;
+}
+
+.flexlayout__splitter_handle_vert {
+  width: 30px;
+  height: 3px;
+}
+
+:root {
+  --flexlayout-splitter-size: 4px;
+}
+
+.flexlayout__splitter_vert {
+  height: 4px !important;
+  min-height: 4px !important;
+}
+.flexlayout__splitter {
+  width: 4px !important;
+  min-width: 4px !important;
+}
+/* 
+.flexlayout__splitter_horz {
+  width: 4px !important;
+  min-width: 4px !important;
+} */

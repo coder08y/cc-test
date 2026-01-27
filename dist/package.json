@@ -1,0 +1,60 @@
+{
+  "name": "cetus-dex",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "dotenv -e .env.dev vite",
+    "dev:local": "dotenv -e .env.local vite",
+    "dev:test": "dotenv -e .env.test vite",
+    "dev:pre": "dotenv -e .env.pre vite",
+    "dev:main": "dotenv -e .env.main vite",
+    "dev:invite": "dotenv -e .env.invite vite",
+    "build": "vite build",
+    "build:test": "dotenv -e .env.test vite build",
+    "build:pre": "dotenv -e .env.pre vite build",
+    "build:main": "dotenv -e .env.main vite build",
+    "build:invite": "dotenv -e .env.invite vite build",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "preview": "vite preview",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@cetus/design": "workspace:*",
+    "@cetus/hooks": "workspace:*",
+    "@cetus/sdk-factory": "workspace:*",
+    "@cetus/stores": "workspace:*",
+    "@cetus/types": "workspace:*",
+    "@cetus/ui-kit": "workspace:*",
+    "@cetus/utils": "workspace:*",
+    "bn.js": "^5.2.2",
+    "copy-to-clipboard": "^3.3.3",
+    "d3": "^7.9.0",
+    "lightweight-charts": "^5.1.0",
+    "rc-slider": "^11.1.8",
+    "react-intersection-observer": "^9.16.0",
+    "recharts": "^2.15.3",
+    "styled-components": "^6.1.18",
+    "swr": "^2.3.3",
+    "tsconfck": "^3.1.6"
+  },
+  "devDependencies": {
+    "@rollup/plugin-strip": "^3.0.4",
+    "@types/bn.js": "^5.1.6",
+    "@types/d3": "^7.4.3",
+    "@types/node": "^20.17.57",
+    "@types/numeral": "^2.0.5",
+    "cross-env": "^7.0.3",
+    "dotenv-cli": "^8.0.0",
+    "flexlayout-react": "0.8.17",
+    "rollup-plugin-visualizer": "^5.14.0",
+    "vite-plugin-node-polyfills": "0.21.0",
+    "vite-plugin-svgr": "4.2.0",
+    "vite-tsconfig-paths": "4.3.1",
+    "vitest": "1.6.1"
+  },
+  "overrides": {
+    "bn.js": "^5.2.1"
+  }
+}

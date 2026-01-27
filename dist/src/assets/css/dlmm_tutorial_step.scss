@@ -1,0 +1,7 @@
+.tour-popover-content {
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.tour-popover-content.animating {
+  opacity: 0;
+  transform: scale(0.95);
+}
