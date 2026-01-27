@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "list": [
+      {
+        "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+        "symbol": "SUI",
+        "decimals": 6,
+        "isVerified": true,
+        "logoURL": "https://archive.cetus.zone/assets/image/sui/sui.png",
+        "name": "sui",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::hasui::HASUI",
+        "symbol": "haSUI",
+        "decimals": 9,
+        "isVerified": true,
+        "logoURL": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/hasui.svg/public",
+        "name": "haSUI for test",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::sui::SUI",
+        "symbol": "SUI",
+        "decimals": 9,
+        "isVerified": true,
+        "logoURL": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/sui-coin.svg/public",
+        "name": "SUI for test",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdc::USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "isVerified": true,
+        "logoURL": "https://www.circle.com/hubfs/Brand/USDC/USDC_icon_32x32.png",
+        "name": "usdc for test",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0xd933bc488dd19dcfdf6b8967f12686c05ff052c82af43b622b1d702575905c53::tardi::TARDI",
+        "symbol": "TARDI",
+        "decimals": 9,
+        "isVerified": true,
+        "logoURL": "https://bafybeieycjagqv7xtenzxss5xkcxgeru7wql6izhzokr4ay4xdbrul4ef4.ipfs.w3s.link",
+        "name": "TARDI",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::deep::DEEP",
+        "symbol": "DEEP",
+        "decimals": 6,
+        "isVerified": true,
+        "logoURL": "https://images.deepbook.tech/icon.svg",
+        "name": "DeepBook Token",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::cetus::CETUS",
+        "symbol": "Cetus",
+        "decimals": 9,
+        "isVerified": true,
+        "logoURL": "https://uxcdefo3r2uemooidt2kk2stykakvwd2m6nasg5lhbfaxemm4i3a.arweave.net/pcQyFduOqEY5yBz0pWpTwoCq2HpnmgkbqzhKC5GM4jY",
+        "name": "Cetus Token",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x5419f6e223f18a9141e91a42286f2783eee27bf2667422c2100afc7b2296731b::nbtc::NBTC",
+        "symbol": "nBTC",
+        "decimals": 9,
+        "isVerified": true,
+        "logoURL": "https://raw.githubusercontent.com/gonative-cc/sui-native/master/assets/nbtc.svg",
+        "name": "Native BTC",
+        "extensionFields": {}
+      },
+      {
+        "coinType": "0x14a71d857b34677a7d57e0feb303df1adb515a37780645ab763d42ce8d1a5e48::usdt::USDT",
+        "symbol": "USDT8888888",
+        "decimals": 6,
+        "isVerified": true,
+        "logoURL": "https://bridge-assets.sui.io/usdt.png",
+        "name": "usdt for test",
+        "extensionFields": {}
+      }
+    ]
+  }
+}

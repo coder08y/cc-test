@@ -1,0 +1,215 @@
+@keyframes bgColorChange {
+  0% {
+    background: linear-gradient(270deg, #008f20 0%, #007192 100%);
+  }
+  5% {
+    background: linear-gradient(270deg, #008f38 0%, #006192 100%);
+  }
+  10% {
+    background: linear-gradient(270deg, #008f50 0%, #005192 100%);
+  }
+  15% {
+    background: linear-gradient(270deg, #008f68 0%, #004192 100%);
+  }
+  20% {
+    background: linear-gradient(270deg, #008080 0%, #003192 100%);
+  }
+  25% {
+    background: linear-gradient(270deg, #007090 0%, #002192 100%);
+  }
+  30% {
+    background: linear-gradient(270deg, #0060a0 0%, #001192 100%);
+  }
+  35% {
+    background: linear-gradient(270deg, #0050b0 0%, #000092 100%);
+  }
+  40% {
+    background: linear-gradient(270deg, #0040c0 0%, #100092 100%);
+  }
+  45% {
+    background: linear-gradient(270deg, #0030d0 0%, #200092 100%);
+  }
+  50% {
+    background: linear-gradient(270deg, #0020e0 0%, #300092 100%);
+  }
+  55% {
+    background: linear-gradient(270deg, #0010f0 0%, #400092 100%);
+  }
+  60% {
+    background: linear-gradient(270deg, #0000ff 0%, #500092 100%);
+  }
+  65% {
+    background: linear-gradient(270deg, #1000df 0%, #600092 100%);
+  }
+  70% {
+    background: linear-gradient(270deg, #2000bf 0%, #700092 100%);
+  }
+  75% {
+    background: linear-gradient(270deg, #30009f 0%, #800092 100%);
+  }
+  80% {
+    background: linear-gradient(270deg, #40007f 0%, #900092 100%);
+  }
+  85% {
+    background: linear-gradient(270deg, #50005f 0%, #a00092 100%);
+  }
+  90% {
+    background: linear-gradient(270deg, #60003f 0%, #b00092 100%);
+  }
+  95% {
+    background: linear-gradient(270deg, #70001f 0%, #c00092 100%);
+  }
+  100% {
+    background: linear-gradient(270deg, #008f20 0%, #007192 100%);
+  }
+}
+
+.bg_img {
+  /* width: 1160px; */
+  margin: auto;
+  background: center 40px / 760px 380px no-repeat url("/images/swap_bg.png");
+}
+
+/* 圆形样式 */
+.circle {
+  position: absolute;
+  bottom: 0;
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 50%;
+  opacity: 0;
+  animation: moveUp 10s linear infinite;
+}
+
+/* 动画效果 */
+@keyframes moveUp {
+  0% {
+    transform: translateY(0px);
+    opacity: 0;
+  }
+  25% {
+    opacity: 1;
+  }
+  75% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-300px);
+    opacity: 0;
+  }
+}
+
+/* 延迟每个圆的动画效果 */
+.circle1 {
+  width: 10px;
+  height: 10px;
+  left: 200px;
+  bottom: 10px;
+  animation-delay: 0s;
+}
+.circle2 {
+  width: 4px;
+  height: 4px;
+  left: 100px;
+  bottom: 50px;
+  animation-delay: 1.2s;
+}
+.circle3 {
+  width: 6px;
+  height: 6px;
+  left: 300px;
+  bottom: -50px;
+  animation-delay: 0.4s;
+}
+.circle4 {
+  width: 5px;
+  height: 5px;
+  left: 500px;
+  bottom: -250px;
+  animation-delay: 1.6s;
+}
+.circle5 {
+  width: 2px;
+  height: 2px;
+  right: 100px;
+  bottom: -350px;
+  animation-delay: 2.8s;
+}
+.circle6 {
+  width: 12px;
+  height: 12px;
+  right: 150px;
+  bottom: 150px;
+  animation-delay: 1s;
+}
+.circle7 {
+  width: 4px;
+  height: 4px;
+  right: 350px;
+  bottom: 50px;
+  animation-delay: 1.2s;
+}
+.circle8 {
+  width: 12px;
+  height: 12px;
+  right: 550px;
+  bottom: -50px;
+  animation-delay: 1.4s;
+}
+.circle9 {
+  width: 5px;
+  height: 5px;
+  right: 250px;
+  bottom: -100px;
+  animation-delay: 1.6s;
+}
+.circle10 {
+  width: 6px;
+  height: 6px;
+  right: 300px;
+  bottom: -250px;
+  animation-delay: 1.8s;
+}
+.circle11 {
+  width: 10px;
+  height: 10px;
+  right: -300px;
+  bottom: -100px;
+  animation-delay: 3.5s;
+}
+.circle12 {
+  width: 6px;
+  height: 6px;
+  right: -100px;
+  bottom: 0px;
+  animation-delay: 1s;
+}
+.circle13 {
+  width: 5px;
+  height: 5px;
+  right: -350px;
+  bottom: 100px;
+  animation-delay: 0.5s;
+}
+.circle14 {
+  width: 6px;
+  height: 6px;
+  left: -250px;
+  bottom: -50px;
+  animation-delay: 4s;
+}
+.circle15 {
+  width: 6px;
+  height: 6px;
+  left: -150px;
+  bottom: 50px;
+  animation-delay: 0.5s;
+}
+.circle16 {
+  width: 10px;
+  height: 10px;
+  left: -400px;
+  bottom: -0px;
+  animation-delay: 0s;
+}
