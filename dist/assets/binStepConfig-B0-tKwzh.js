@@ -1,0 +1,1 @@
+import{bk as n,bC as o}from"./index-Co4pGs7w.js";const s=(t,e)=>({binStepConfig:void 0,setBinStepConfig:i=>{t(()=>({binStepConfig:i}))}}),r=n(o(s,{name:"bin-step-config",partialize:t=>{const{binStepConfig:e}=t;return{binStepConfig:e}}}));export{r as u};
