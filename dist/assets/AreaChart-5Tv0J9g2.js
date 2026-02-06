@@ -1,0 +1,1 @@
+import{g as a,f as r}from"./generateCategoricalChart-C0qZus5u.js";import{A as s}from"./Area-DfX-mS3H.js";import{X as i,Y as o}from"./YAxis-Da_5ndzZ.js";var e=a({chartName:"AreaChart",GraphicalChild:s,axisComponents:[{axisType:"xAxis",AxisComp:i},{axisType:"yAxis",AxisComp:o}],formatAxisMap:r});export{e as A};
