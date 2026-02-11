@@ -1,1 +1,0 @@
-import{r as u}from"./vendor-BK7eZeBq.js";import{u as f,i as c}from"./index-COSHUP4J.js";var l=function(n,r,e){e===void 0&&(e={});var a=f(n),t=u.useRef(null),i=u.useCallback(function(){t.current&&clearInterval(t.current)},[]);return u.useEffect(function(){if(!(!c(r)||r<0))return e.immediate&&a(),t.current=setInterval(a,r),i},[r,e.immediate]),i};export{l as u};
