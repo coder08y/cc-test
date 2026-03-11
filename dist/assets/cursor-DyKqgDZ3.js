@@ -1,3 +1,0 @@
-import{cn as o}from"./index-v90kzB2E.js";import"./vendor-BozjqnFp.js";import"./cross-BI2ice2R.js";const l=o` <svg fill="none" viewBox="0 0 13 4">
-  <path fill="currentColor" d="M.5 0h12L8.9 3.13a3.76 3.76 0 0 1-4.8 0L.5 0Z" />
-</svg>`;export{l as cursorSvg};
