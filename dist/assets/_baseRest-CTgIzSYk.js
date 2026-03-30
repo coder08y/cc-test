@@ -1,0 +1,1 @@
+import{cf as r}from"./index-CFYEZjIZ.js";import{s,o as e}from"./last-BFax5rLL.js";function m(t,o){return s(e(t,o,r),t+"")}export{m as b};
