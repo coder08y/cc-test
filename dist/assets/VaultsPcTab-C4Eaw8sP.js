@@ -1,0 +1,1 @@
+import{j as s,H as n,m as e}from"./vendor-Cq18sjpg.js";import{V as x}from"./VaultsTab-R-MewVed.js";function p(t){const{currentTab:o,onClickVaultsTab:r,showSkeletonLoading:a}=t;return s.jsxs(n,{flexWrap:"wrap",children:[a&&s.jsx(e,{w:"480px",h:"42px"}),!a&&s.jsx(x,{currentTab:o,onClickVaultsTab:r})]})}export{p as V};
