@@ -1,0 +1,1 @@
+function i(r){if(!r)return!1;try{const e=new Date,a=new Date(r),n=t=>{const c=t.getFullYear(),D=String(t.getMonth()+1).padStart(2,"0"),u=String(t.getDate()).padStart(2,"0");return`${c}-${D}-${u}`},o=n(e),s=n(a);if(o===s){const t=new Date(e);return t.setHours(23,59,59,999),e<t}return!1}catch(e){return console.warn("Date parsing error:",e),!1}}export{i};
