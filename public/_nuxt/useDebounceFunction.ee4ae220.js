@@ -1,0 +1,1 @@
+import{r as e,A as u}from"./entry.ed362484.js";function a(a,t=1e3){const l=e(null);return u((()=>{l.value&&clearTimeout(l.value)})),(...e)=>{l.value&&clearTimeout(l.value),l.value=setTimeout((()=>{a(...e)}),t)}}export{a as u};

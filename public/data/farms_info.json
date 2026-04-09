@@ -1,0 +1,520 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "total": 3,
+    "lp_list": [
+    {
+        "symbol": "haSUI-SUI",
+        "name": "Haedal staked SUI-SUI Token",
+        "decimals": 6,
+        "fee": "0.0001",
+        "tick_spacing": "2",
+        "pool_type": "",
+        "address": "0x871d8a227114f375170f149f7e9d45be822dd003eba225e83c05ac80828596bc",
+        "coin_a_address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+        "coin_b_address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+        "project_url": "",
+        "is_display_rewarder": false,
+        "is_closed": false,
+        "rewarder_display1": false,
+        "rewarder_display2": false,
+        "rewarder_display3": false,
+        "labels": [
+
+        ],
+        "coin_a": {
+            "name": "Haedal staked SUI",
+            "symbol": "haSUI",
+            "decimals": 9,
+            "address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+            "balance": "10388478.310170319",
+            "logo_url": "https://archive.cetus.zone/assets/image/sui/hasui.png",
+            "coingecko_id": "haedal-staked-sui",
+            "project_url": "",
+            "labels": [
+
+            ]
+        },
+        "coin_b": {
+            "name": "SUI Token",
+            "symbol": "SUI",
+            "decimals": 9,
+            "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+            "balance": "17887193.03799656",
+            "logo_url": "https://archive.cetus.zone/assets/image/sui/sui.png",
+            "coingecko_id": "sui",
+            "project_url": "",
+            "labels": [
+
+            ]
+        },
+        "price": "1.0386661166115964213743663468796039318225534650053490811251616508",
+        "rewarder_usd": [
+            "0"
+        ],
+        "rewarder_apr": [
+            "0%",
+            "0%",
+            "0%"
+        ],
+        "is_forward": true,
+        "price_range_config": null,
+        "object": {
+            "coin_a": 10388478310170320,
+            "coin_b": 17887193037996560,
+            "tick_spacing": 2,
+            "liquidity": "5237663587442253048",
+            "current_sqrt_price": "18799993739391870095",
+            "rewarder_manager": {
+                "fields": {
+                    "rewarders": [
+                        {
+                            "fields": {
+                                "reward_coin": {
+                                    "fields": {
+                                        "name": "0000000000000000000000000000000000000000000000000000000000000002::sui::SUI"
+                                    }
+                                },
+                                "emissions_per_second": "0",
+                                "growth_global": "1257881454428453"
+                            }
+                        }
+                    ],
+                    "points_released": "657118218428514816963379200000000",
+                    "points_growth_global": "21313749739240404",
+                    "last_updated_time": 1729603662
+                }
+            },
+            "is_pause": false,
+            "index": 171
+        },
+        "category": "",
+        "is_vaults": true,
+        "stable_farming": {
+            "stable_farming_pool": "0x9f5fd63b2a2fd8f698ff6b7b9720dbb2aa14bedb9fc4fd6411f20e5b531a4b89",
+            "is_show_rewarder": true,
+            "show_rewarder_1": true,
+            "show_rewarder_2": true,
+            "show_rewarder_3": true,
+            "tvl": "--",
+            "apr": "0.084130103605464524008529138240245136889832634674743165144156231",
+            "effective_tick_lower": 200,
+            "effective_tick_upper": 584,
+            "total_wrapped_amount": "20209333872015091",
+            "stable_rewarder": [
+                {
+                    "apr": "0.084130103605464524008529138240245136889832634674743165144156231",
+                    "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                    "amount_second": "0.0586689814814814814807439285714285714285714285714285714285714286",
+                    "amount_usd": "0.113539966604398148146720788567978571428571428571428571428571428626721828",
+                    "symbol": "SUI",
+                    "name": "sui",
+                    "decimals": 9,
+                    "logoURI": ""
+                },
+                {
+                    "apr": "0",
+                    "coin": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+                    "amount_second": "0",
+                    "amount_usd": "0",
+                    "symbol": "haSUI",
+                    "name": "haSUI",
+                    "decimals": 9,
+                    "logoURI": "https://assets.haedal.xyz/logos/hasui.svg"
+                }
+            ]
+        },
+        "pure_tvl_in_usd": "55503816.233509",
+        "vol_in_usd_24h": "3822012.130355",
+        "fee_24_h": "382.2012138851144762729124748418588993210890566723173055763165381698",
+        "total_apr": "",
+        "apr": {
+            "fee_apr_24h": "0.24104344130548256080133804914249593678478280508516839799527585%",
+            "rewarder": {
+                "is_display_rewarder": false,
+                "is_closed": false,
+                "rewarder_display1": false,
+                "rewarder_display2": false,
+                "rewarder_display3": false,
+                "apr": "0%",
+                "rewarder_coin": [
+                    {
+                        "apr": "0%",
+                        "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                        "amount_second": "0",
+                        "amount_usd": "0",
+                        "symbol": "SUI",
+                        "name": "SUI Token",
+                        "decimals": 9,
+                        "logoURI": "https://archive.cetus.zone/assets/image/sui/sui.png"
+                    }
+                ]
+            }
+        },
+        "has_mining": false,
+        "has_farming": true,
+        "no_incentives": false,
+        "rewarder": {
+            "is_display_rewarder": false,
+            "is_closed": false,
+            "rewarder_display1": false,
+            "rewarder_display2": false,
+            "rewarder_display3": false,
+            "apr": "0%",
+            "rewarder_coin": [
+                {
+                    "apr": "0%",
+                    "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                    "amount_second": "0",
+                    "amount_usd": "0",
+                    "symbol": "SUI",
+                    "name": "SUI Token",
+                    "decimals": 9,
+                    "logoURI": "https://archive.cetus.zone/assets/image/sui/sui.png"
+                }
+            ]
+        },
+        "apr_24h": "0.24104344130548256080133804914249593678478280508516839799527585%",
+        "apr_7day": "0.24104344130548256080133804914249593678478280508516839799527585%",
+        "swap_account": "0x871d8a227114f375170f149f7e9d45be822dd003eba225e83c05ac80828596bc",
+        "token_a_address": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+        "token_b_address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI"
+    },
+    {
+        "symbol": "vSUI-SUI",
+        "name": "Volo Staked SUI-SUI Token",
+        "decimals": 6,
+        "fee": "0.0001",
+        "tick_spacing": "2",
+        "pool_type": "",
+        "address": "0x6c545e78638c8c1db7a48b282bb8ca79da107993fcb185f75cedc1f5adb2f535",
+        "coin_a_address": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+        "coin_b_address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+        "project_url": "",
+        "is_display_rewarder": false,
+        "is_closed": false,
+        "rewarder_display1": false,
+        "rewarder_display2": false,
+        "rewarder_display3": false,
+        "labels": [
+
+        ],
+        "coin_a": {
+            "name": "Volo Staked SUI",
+            "symbol": "vSUI",
+            "decimals": 9,
+            "address": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+            "balance": "338797.743279881",
+            "logo_url": "https://archive.cetus.zone/assets/image/sui/vsui.png",
+            "coingecko_id": "volo-staked-sui",
+            "project_url": "",
+            "labels": [
+
+            ]
+        },
+        "coin_b": {
+            "name": "SUI Token",
+            "symbol": "SUI",
+            "decimals": 9,
+            "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+            "balance": "966505.119588738",
+            "logo_url": "https://archive.cetus.zone/assets/image/sui/sui.png",
+            "coingecko_id": "sui",
+            "project_url": "",
+            "labels": [
+
+            ]
+        },
+        "price": "1.0275066052808553530948568203064535130815180692830087932436086343",
+        "rewarder_usd": [
+            "0"
+        ],
+        "rewarder_apr": [
+            "0%",
+            "0%",
+            "0%"
+        ],
+        "is_forward": true,
+        "price_range_config": null,
+        "object": {
+            "coin_a": 338797743279881,
+            "coin_b": 966505119588738,
+            "tick_spacing": 2,
+            "liquidity": "435665470534361945",
+            "current_sqrt_price": "18698726685843287878",
+            "rewarder_manager": {
+                "fields": {
+                    "rewarders": [
+                        {
+                            "fields": {
+                                "reward_coin": {
+                                    "fields": {
+                                        "name": "0000000000000000000000000000000000000000000000000000000000000002::sui::SUI"
+                                    }
+                                },
+                                "emissions_per_second": "0",
+                                "growth_global": "1622087936923460"
+                            }
+                        }
+                    ],
+                    "points_released": "564372932953314945597964288000000",
+                    "points_growth_global": "30358021657486389",
+                    "last_updated_time": 1729603473
+                }
+            },
+            "is_pause": false,
+            "index": 175
+        },
+        "category": "",
+        "is_vaults": true,
+        "stable_farming": {
+            "stable_farming_pool": "0xf47709fd3cfb41252cda363f32dc29f34a6eaaf3729927753e75d73abc5f5181",
+            "is_show_rewarder": true,
+            "show_rewarder_1": true,
+            "show_rewarder_2": true,
+            "show_rewarder_3": true,
+            "tvl": "--",
+            "apr": "0.0757656927209004774262897429633123501404474318388709346156310131",
+            "effective_tick_lower": 100,
+            "effective_tick_upper": 442,
+            "total_wrapped_amount": "1214269218713784",
+            "stable_rewarder": [
+                {
+                    "apr": "0.0757656927209004774262897429633123501404474318388709346156310131",
+                    "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                    "amount_second": "0.0031249999999999999999607142857142857142857142857142857142857143",
+                    "amount_usd": "0.006047699937499999999923971772214285714285714285714285714285714313360914",
+                    "symbol": "SUI",
+                    "name": "sui",
+                    "decimals": 9,
+                    "logoURI": ""
+                }
+            ]
+        },
+        "pure_tvl_in_usd": "2544836.73318",
+        "vol_in_usd_24h": "1420078.290226",
+        "fee_24_h": "142.0078300607705742150209797608325699903615867854267183274990062385",
+        "total_apr": "",
+        "apr": {
+            "fee_apr_24h": "1.86803117839237642004979117157883421434425277808759355275078855%",
+            "rewarder": {
+                "is_display_rewarder": false,
+                "is_closed": false,
+                "rewarder_display1": false,
+                "rewarder_display2": false,
+                "rewarder_display3": false,
+                "apr": "0%",
+                "rewarder_coin": [
+                    {
+                        "apr": "0%",
+                        "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                        "amount_second": "0",
+                        "amount_usd": "0",
+                        "symbol": "SUI",
+                        "name": "SUI Token",
+                        "decimals": 9,
+                        "logoURI": "https://archive.cetus.zone/assets/image/sui/sui.png"
+                    }
+                ]
+            }
+        },
+        "has_mining": false,
+        "has_farming": true,
+        "no_incentives": false,
+        "rewarder": {
+            "is_display_rewarder": false,
+            "is_closed": false,
+            "rewarder_display1": false,
+            "rewarder_display2": false,
+            "rewarder_display3": false,
+            "apr": "0%",
+            "rewarder_coin": [
+                {
+                    "apr": "0%",
+                    "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                    "amount_second": "0",
+                    "amount_usd": "0",
+                    "symbol": "SUI",
+                    "name": "SUI Token",
+                    "decimals": 9,
+                    "logoURI": "https://archive.cetus.zone/assets/image/sui/sui.png"
+                }
+            ]
+        },
+        "apr_24h": "1.86803117839237642004979117157883421434425277808759355275078855%",
+        "apr_7day": "1.86803117839237642004979117157883421434425277808759355275078855%",
+        "swap_account": "0x6c545e78638c8c1db7a48b282bb8ca79da107993fcb185f75cedc1f5adb2f535",
+        "token_a_address": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+        "token_b_address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI"
+    },
+    {
+        "symbol": "afSUI-SUI",
+        "name": "Aftermath Staked SUI-SUI Token",
+        "decimals": 6,
+        "fee": "0.0001",
+        "tick_spacing": "2",
+        "pool_type": "",
+        "address": "0xa528b26eae41bcfca488a9feaa3dca614b2a1d9b9b5c78c256918ced051d4c50",
+        "coin_a_address": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+        "coin_b_address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+        "project_url": "",
+        "is_display_rewarder": false,
+        "is_closed": false,
+        "rewarder_display1": false,
+        "rewarder_display2": false,
+        "rewarder_display3": false,
+        "labels": [
+
+        ],
+        "coin_a": {
+            "name": "Aftermath Staked SUI",
+            "symbol": "afSUI",
+            "decimals": 9,
+            "address": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+            "balance": "225728.823032598",
+            "logo_url": "https://aftermath.finance/coins/afsui.svg",
+            "coingecko_id": "",
+            "project_url": "",
+            "labels": [
+
+            ]
+        },
+        "coin_b": {
+            "name": "SUI Token",
+            "symbol": "SUI",
+            "decimals": 9,
+            "address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+            "balance": "1284793.083668195",
+            "logo_url": "https://archive.cetus.zone/assets/image/sui/sui.png",
+            "coingecko_id": "sui",
+            "project_url": "",
+            "labels": [
+
+            ]
+        },
+        "price": "1.0337540615864192890488662407305266516110301753891006864353832877",
+        "rewarder_usd": [
+            "0"
+        ],
+        "rewarder_apr": [
+            "0%",
+            "0%",
+            "0%"
+        ],
+        "is_forward": true,
+        "price_range_config": null,
+        "object": {
+            "coin_a": 225728823032598,
+            "coin_b": 1284793083668195,
+            "tick_spacing": 2,
+            "liquidity": "74813548836139674",
+            "current_sqrt_price": "18755486634336106882",
+            "rewarder_manager": {
+                "fields": {
+                    "rewarders": [
+                        {
+                            "fields": {
+                                "reward_coin": {
+                                    "fields": {
+                                        "name": "0000000000000000000000000000000000000000000000000000000000000002::sui::SUI"
+                                    }
+                                },
+                                "emissions_per_second": "0",
+                                "growth_global": "116212414799563023"
+                            }
+                        }
+                    ],
+                    "points_released": "573043031795166950824345600000000",
+                    "points_growth_global": "16346550562368931439",
+                    "last_updated_time": 1729603685
+                }
+            },
+            "is_pause": false,
+            "index": 177
+        },
+        "category": "",
+        "is_vaults": true,
+        "stable_farming": {
+            "stable_farming_pool": "0xa67a2c2ea1bfad784e44eaf079fbf4523f549dcbe2e1c838989aef9383e372da",
+            "is_show_rewarder": true,
+            "show_rewarder_1": true,
+            "show_rewarder_2": true,
+            "show_rewarder_3": true,
+            "tvl": "--",
+            "apr": "0.0624977026936970597803343463067269045672369054731602314243075677",
+            "effective_tick_lower": 100,
+            "effective_tick_upper": 442,
+            "total_wrapped_amount": "1500897559660607",
+            "stable_rewarder": [
+                {
+                    "apr": "0.0624977026936970597803343463067269045672369054731602314243075677",
+                    "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                    "amount_second": "0.0030208333333333333332953571428571428571428571428571428571428571",
+                    "amount_usd": "0.005846109939583333333259839379807142857142857142857142857142857059917258",
+                    "symbol": "SUI",
+                    "name": "sui",
+                    "decimals": 9,
+                    "logoURI": ""
+                }
+            ]
+        },
+        "pure_tvl_in_usd": "2938358.746011",
+        "vol_in_usd_24h": "595811.552842",
+        "fee_24_h": "59.5811563426038018711060681477681002858017238312900190869208395436",
+        "total_apr": "",
+        "apr": {
+            "fee_apr_24h": "0.71882848502163497239182610884159409129470039719001416625966645%",
+            "rewarder": {
+                "is_display_rewarder": false,
+                "is_closed": false,
+                "rewarder_display1": false,
+                "rewarder_display2": false,
+                "rewarder_display3": false,
+                "apr": "0%",
+                "rewarder_coin": [
+                    {
+                        "apr": "0%",
+                        "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                        "amount_second": "0",
+                        "amount_usd": "0",
+                        "symbol": "SUI",
+                        "name": "SUI Token",
+                        "decimals": 9,
+                        "logoURI": "https://archive.cetus.zone/assets/image/sui/sui.png"
+                    }
+                ]
+            }
+        },
+        "has_mining": false,
+        "has_farming": true,
+        "no_incentives": false,
+        "rewarder": {
+            "is_display_rewarder": false,
+            "is_closed": false,
+            "rewarder_display1": false,
+            "rewarder_display2": false,
+            "rewarder_display3": false,
+            "apr": "0%",
+            "rewarder_coin": [
+                {
+                    "apr": "0%",
+                    "coin": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+                    "amount_second": "0",
+                    "amount_usd": "0",
+                    "symbol": "SUI",
+                    "name": "SUI Token",
+                    "decimals": 9,
+                    "logoURI": "https://archive.cetus.zone/assets/image/sui/sui.png"
+                }
+            ]
+        },
+        "apr_24h": "0.71882848502163497239182610884159409129470039719001416625966645%",
+        "apr_7day": "0.71882848502163497239182610884159409129470039719001416625966645%",
+        "swap_account": "0xa528b26eae41bcfca488a9feaa3dca614b2a1d9b9b5c78c256918ced051d4c50",
+        "token_a_address": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+        "token_b_address": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI"
+    }
+]
+}
+}

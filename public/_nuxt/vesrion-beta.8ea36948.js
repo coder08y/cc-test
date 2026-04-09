@@ -1,0 +1,1 @@
+import{a as s,o as a,f as t,G as e,e as o}from"./entry.ed362484.js";const p=o(s({__name:"vesrion-beta",props:{top:{type:String,default:""}},setup:s=>(o,p)=>(a(),t("div",{class:"vesrion-beta",style:e({top:s.top})},null,4))}),[["__scopeId","data-v-f71d71a9"]]);export{p as V};
