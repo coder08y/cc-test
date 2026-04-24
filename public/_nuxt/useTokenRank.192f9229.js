@@ -1,0 +1,1 @@
+import"./entry.ee3a4589.js";const n=""+globalThis.__publicAssetsURL("sui-image/img-no-data@2x.png");function e(){return{getTokenRank:(n,e)=>{var o,s;const i=Number(null==(o=null==n?void 0:n.extensions)?void 0:o.rank)||0,t=Number(null==(s=null==e?void 0:e.extensions)?void 0:s.rank)||0;return!(i>t)&&i<t}}}export{n as _,e as u};
