@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkbrige_typescript=self.webpackChunkbrige_typescript||[]).push([[9341],{9341:(e,a,l)=>{l.r(a),l.d(a,{allWalletsSvg:()=>t});var n,s=l(7528);const t=(0,l(5345).n)(n||(n=(0,s.A)(['<svg fill="none" viewBox="0 0 24 24">\n  <path\n    style="fill: var(--wui-color-accent-100);"\n    d="M10.2 6.6a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0ZM21 6.6a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0ZM10.2 17.4a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0ZM21 17.4a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0Z"\n  />\n</svg>'])))}}]);
-//# sourceMappingURL=9341.a8bf41f9.chunk.js.map
