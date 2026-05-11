@@ -114,7 +114,7 @@ echo "app-clmm 推送成功。Netlify 仍需手动发布。"
 
 echo "正在执行 Vercel 生产环境部署..."
 (
-  cd "${APP_CLMM_DIR}"
+  # cd "${TARGET_DIST}"
   vercel deploy --prod
 )
 
