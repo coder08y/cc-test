@@ -1,0 +1,1 @@
+import{bn as i,bA as o}from"./index-DTyPjAhc.js";const s=(t,e)=>({binStepConfig:void 0,setBinStepConfig:n=>{t(()=>({binStepConfig:n}))}}),r=i(o(s,{name:"bin-step-config",partialize:t=>{const{binStepConfig:e}=t;return{binStepConfig:e}}}));export{r as u};
