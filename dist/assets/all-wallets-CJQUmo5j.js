@@ -1,0 +1,6 @@
+import{w as o}from"./core-1fX7oDEB.js";import"./cross-_2fvIADI.js";import"./vendor-CGHQh-vb.js";import"./index-BrYIheF3.js";import"./CrossSwap-DzPUl40f.js";import"./PriceImpact-BCBOaRQ1.js";import"./CurrentPrice-Yr16Cl3c.js";import"./Slippage-DTO-ZgLe.js";import"./index-CoYQ-sEa.js";import"./VaulDrawer-MfdF889i.js";import"./useSwapHelper-C-EHQNoQ.js";import"./useGetPoolList-CwEaOyrP.js";import"./utils-Dq7bQYZR.js";import"./useWrapPoolData-BXo3SBe0.js";import"./sui-priority-C3C7fpbR.js";import"./usePreviousValue-Cw8muSou.js";import"./isWalletInstalled-DVYvghgR.js";import"./HighlightText-B6JbtTfR.js";import"./useSigner-I0-zbm-r.js";import"./useTransactionModal-CJFCnYV_.js";import"./ErrorTips-BGMswIx-.js";import"./HTextLabelBox-DVFWjLzh.js";import"./NoData-BFfdRLSl.js";import"./index-DDXq4q0f.js";import"./Loading-Bgp_KN6q.js";import"./FreshProgressV2-NT26aARh.js";import"./index-B9brxdmV.js";import"./en_US-Y4ZOVFV4-Bctl1B5R.js";import"./index.es-B7gIZLIZ.js";const z=o`<svg fill="none" viewBox="0 0 24 24">
+  <path
+    style="fill: var(--wui-color-accent-100);"
+    d="M10.2 6.6a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0ZM21 6.6a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0ZM10.2 17.4a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0ZM21 17.4a3.6 3.6 0 1 1-7.2 0 3.6 3.6 0 0 1 7.2 0Z"
+  />
+</svg>`;export{z as allWalletsSvg};
