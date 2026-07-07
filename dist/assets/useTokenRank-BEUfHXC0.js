@@ -1,0 +1,1 @@
+function s(){return{getTokenRank:(e,r)=>{var k,n;const t=Number((k=e==null?void 0:e.extensions)==null?void 0:k.rank)||Number(e==null?void 0:e.rank)||0,a=Number((n=r==null?void 0:r.extensions)==null?void 0:n.rank)||Number(r==null?void 0:r.rank)||0;return t>a?!1:t<a}}}export{s as u};
