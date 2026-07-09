@@ -166,7 +166,8 @@ async function measureRpcLatency(rpcList) {
 
   return {
     results,
-    rpcStatus
+    rpcStatus,
+    allFailed: !Object.values(rpcStatus).some(status => status?.healthy && status?.latency > 0)
   }
 }
 
@@ -194,7 +195,7 @@ self.onmessage = async function (e) {
 
   if (!rpcList?.length) {
     console.warn(`${LOG_PREFIX} empty rpc list`, { selectFastest, includeDetails })
-    self.postMessage(selectFastest ? (includeDetails ? { defaultRpc: '', results: {}, rpcStatus: {} } : '') : {})
+    self.postMessage(selectFastest ? (includeDetails ? { defaultRpc: '', results: {}, rpcStatus: {}, allFailed: true } : '') : {})
     return
   }
 
@@ -205,15 +206,16 @@ self.onmessage = async function (e) {
   })
 
   try {
-    const { results, rpcStatus } = await measureRpcLatency(rpcList)
+    const { results, rpcStatus, allFailed } = await measureRpcLatency(rpcList)
     const defaultRpc = pickDefaultRpc(rpcStatus, rpcList)
-    const output = selectFastest ? (includeDetails ? { defaultRpc, results, rpcStatus } : defaultRpc) : results
+    const output = selectFastest ? (includeDetails ? { defaultRpc, results, rpcStatus, allFailed } : defaultRpc) : results
 
     console.log(`${LOG_PREFIX} done`, {
       mode: selectFastest ? 'selectFastest' : 'measure',
       output,
       results,
-      rpcStatus
+      rpcStatus,
+      allFailed
     })
 
     self.postMessage(output)
@@ -224,6 +226,8 @@ self.onmessage = async function (e) {
       includeDetails,
       rpcList
     })
-    self.postMessage(selectFastest ? (includeDetails ? { defaultRpc: rpcList[0] || '', results: {}, rpcStatus: {} } : rpcList[0] || '') : {})
+    self.postMessage(
+      selectFastest ? (includeDetails ? { defaultRpc: rpcList[0] || '', results: {}, rpcStatus: {}, allFailed: true } : rpcList[0] || '') : {}
+    )
   }
 }
