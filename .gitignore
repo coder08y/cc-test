@@ -1,3 +1,4 @@
 /publish-online.config
 .vercel
 .env*.local
+.env*
