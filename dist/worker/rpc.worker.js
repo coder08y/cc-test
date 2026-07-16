@@ -2,6 +2,7 @@ const LOG_PREFIX = '[RpcWorker]'
 const GRPC_GET_SERVICE_INFO_PATH = '/sui.rpc.v2.LedgerService/GetServiceInfo'
 const GRPC_EMPTY_REQUEST_BODY = new Uint8Array([0, 0, 0, 0, 0])
 const RPC_CHECKPOINT_THRESHOLD = 3
+const RPC_PING_TIMEOUT_MS = 3_000
 
 function normalizeBaseUrl(url) {
   return url.replace(/\/$/, '')
@@ -89,7 +90,7 @@ function shouldReturnDetails(data) {
   return data?.includeDetails === true
 }
 
-async function pingGrpc(baseUrl) {
+async function pingGrpc(baseUrl, signal) {
   const endpoint = `${normalizeBaseUrl(baseUrl)}${GRPC_GET_SERVICE_INFO_PATH}`
   return fetch(endpoint, {
     method: 'POST',
@@ -97,7 +98,8 @@ async function pingGrpc(baseUrl) {
       'Content-Type': 'application/grpc-web+proto',
       'X-Grpc-Web': '1'
     },
-    body: GRPC_EMPTY_REQUEST_BODY
+    body: GRPC_EMPTY_REQUEST_BODY,
+    signal
   })
 }
 
@@ -113,9 +115,11 @@ async function measureRpcLatency(rpcList) {
     rpcList.map(async rpc => {
       const startTime = Date.now()
       const endpoint = `${normalizeBaseUrl(rpc)}${GRPC_GET_SERVICE_INFO_PATH}`
+      const controller = new AbortController()
+      const timeoutId = setTimeout(() => controller.abort(), RPC_PING_TIMEOUT_MS)
 
       try {
-        const res = await pingGrpc(rpc)
+        const res = await pingGrpc(rpc, controller.signal)
         const responseContent = await readResponseContent(res)
         console.log(`${LOG_PREFIX} ping response`, { rpc, endpoint, responseContent })
 
@@ -159,6 +163,8 @@ async function measureRpcLatency(rpcList) {
           endpoint,
           error: formatError(error)
         })
+      } finally {
+        clearTimeout(timeoutId)
       }
     })
   )
