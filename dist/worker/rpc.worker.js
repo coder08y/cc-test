@@ -117,7 +117,7 @@ async function measureRpcLatency(rpcList) {
       try {
         const res = await pingGrpc(rpc)
         const responseContent = await readResponseContent(res)
-        console.log(`${LOG_PREFIX} ping response`, { rpc, endpoint, responseContent })
+        // console.log(`${LOG_PREFIX} ping response`, { rpc, endpoint, responseContent })
 
         if (isSuccessResponse(res)) {
           const latency = Date.now() - startTime
@@ -129,7 +129,7 @@ async function measureRpcLatency(rpcList) {
             healthy: true,
             lastCheckedAt: Date.now()
           }
-          console.log(`${LOG_PREFIX} ping ok`, { rpc, endpoint, latency, checkpointHeight, status: res.status })
+          // console.log(`${LOG_PREFIX} ping ok`, { rpc, endpoint, latency, checkpointHeight, status: res.status })
           return
         }
 
@@ -162,7 +162,6 @@ async function measureRpcLatency(rpcList) {
       }
     })
   )
-  console.log('🚀🚀🚀 ~ rpc.worker.js:169 ~ measureRpcLatency ~ rpcStatus:', rpcStatus)
 
   return {
     results,
@@ -199,24 +198,24 @@ self.onmessage = async function (e) {
     return
   }
 
-  console.log(`${LOG_PREFIX} start`, {
-    mode: selectFastest ? 'selectFastest' : 'measure',
-    count: rpcList.length,
-    rpcList
-  })
+  // console.log(`${LOG_PREFIX} start`, {
+  //   mode: selectFastest ? 'selectFastest' : 'measure',
+  //   count: rpcList.length,
+  //   rpcList
+  // })
 
   try {
     const { results, rpcStatus, allFailed } = await measureRpcLatency(rpcList)
     const defaultRpc = pickDefaultRpc(rpcStatus, rpcList)
     const output = selectFastest ? (includeDetails ? { defaultRpc, results, rpcStatus, allFailed } : defaultRpc) : results
 
-    console.log(`${LOG_PREFIX} done`, {
-      mode: selectFastest ? 'selectFastest' : 'measure',
-      output,
-      results,
-      rpcStatus,
-      allFailed
-    })
+    // console.log(`${LOG_PREFIX} done`, {
+    //   mode: selectFastest ? 'selectFastest' : 'measure',
+    //   output,
+    //   results,
+    //   rpcStatus,
+    //   allFailed
+    // })
 
     self.postMessage(output)
   } catch (error) {
