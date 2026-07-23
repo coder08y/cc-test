@@ -1,1 +1,0 @@
-import"./decimal.35b9cc96.js";import{d as t,g as r,b as n}from"./index.98d3e0a0.js";function $($,o="$",s=2){if("--"===$)return"--";const i=Math.pow(10,-s);return t($).gt(0)&&t($).lt(i)?"%"===o?`<${i}${o}`:`<${o}${i}`:"%"===o?`${r(n($,s))}${o}`:`${o}${r(n($,s))}`}function o(t,$=2,o=!0){return o?r(n(t,$)):n(t,$)}export{o as f,$ as s};
