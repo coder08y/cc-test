@@ -1,9 +1,9 @@
 .theme-dark:root {
   --cetus-tv-primary: #75C8FF;
-  --cetus-tv-toolbar-background: #111111;
-  --tv-color-platform-background: #111111;
-  --tv-color-pane-background: #111111;
-  --tv-color-pane-background-secondary: #111111;
+  --cetus-tv-toolbar-background: #161616;
+  --tv-color-platform-background: #161616;
+  --tv-color-pane-background: #161616;
+  --tv-color-pane-background-secondary: #161616;
   --tv-color-toolbar-button-background-hover: #1D262E;
   --tv-color-toolbar-button-background-expanded: #1D262E;
   --tv-color-toolbar-button-background-active: #1D262E;
