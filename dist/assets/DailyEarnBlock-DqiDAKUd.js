@@ -1,0 +1,1 @@
+import{j as t,H as o,T as r}from"./vendor-Dz7-fTPf.js";function l({positionInfo:a,dailyEarnUSD:i,dailyEarnOriginResult:s,hasRewards:e,...n}){return t.jsx(o,{...n,children:t.jsx(r,{color:"text_caption",fontWeight:"500",children:i})})}export{l as D};
