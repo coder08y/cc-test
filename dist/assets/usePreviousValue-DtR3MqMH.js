@@ -1,1 +1,0 @@
-import{r as t}from"./vendor-C6MODRn_.js";const u=r=>{const e=t.useRef(r);return t.useEffect(()=>{e.current=r},[r]),e.current},c=r=>{const e=t.useRef(r);return t.useEffect(()=>{e.current=r},[r]),e};export{c as a,u};
