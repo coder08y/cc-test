@@ -1,1 +1,0 @@
-import{d5 as o,d6 as a}from"./index-CIAWcrzI.js";function b(e,i){return e>i}function h(e,i,d){for(var t=-1,l=e.length;++t<l;){var f=e[t],n=i(f);if(n!=null&&(s===void 0?n===n&&!o(n):d(n,s)))var s=n,m=f}return m}function g(e,i){return e&&e.length?h(e,a(i),b):void 0}export{g as m};
