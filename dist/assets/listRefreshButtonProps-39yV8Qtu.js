@@ -1,0 +1,1 @@
+const n={w:"36px",minW:"36px",h:"36px",minH:"36px",boxSizing:"border-box",borderRadius:"8px",bg:"bg_secondary",innerStyle:{bg:"transparent"}},e={w:"36px",minW:"36px",h:"36px",minH:"36px",boxSizing:"border-box",borderRadius:"8px",bg:"bg_secondary",innerStyle:{bg:"transparent"},iconStyle:{fontSize:"20px"}};export{e as a,n as l};

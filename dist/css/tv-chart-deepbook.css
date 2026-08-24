@@ -112,16 +112,40 @@
 }
 
 [role="dialog"],
+[data-name*="dialog"],
+[class*="dialog"] {
+  z-index: 2147483646 !important;
+}
+
 [role="menu"],
 [role="listbox"],
-[data-name*="dialog"],
 [data-name*="popup"],
 [data-name*="menu"],
 [data-name*="context"],
-[class*="dialog"],
 [class*="menu"],
 [class*="popup"],
 [class*="popover"],
 [class*="context"] {
+  z-index: 2147483647 !important;
+}
+
+:where(body, [id*="overlap-manager"], [class*="overlapManager"], [class*="overlap-manager"])
+  *:has([role="dialog"], [aria-modal="true"], [data-name*="dialog"], [class*="dialog"]) {
+  z-index: 2147483646 !important;
+}
+
+:where(body, [id*="overlap-manager"], [class*="overlapManager"], [class*="overlap-manager"])
+  *:has(
+    [role="menu"],
+    [role="listbox"],
+    [data-name*="popup"],
+    [data-name*="menu"],
+    [data-name*="context"],
+    [class*="menuWrap"],
+    [class*="menu-wrap"],
+    [class*="popup"],
+    [class*="popover"],
+    [class*="context"]
+  ):not(:has([role="dialog"], [aria-modal="true"], [data-name*="dialog"], [class*="dialog"])) {
   z-index: 2147483647 !important;
 }
