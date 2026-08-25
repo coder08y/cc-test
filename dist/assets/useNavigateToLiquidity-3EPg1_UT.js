@@ -1,1 +1,0 @@
-import{u as r}from"./index-CV35Vza3.js";import{u as e}from"./index-8PzE8jV4.js";import{u as n}from"./useWrapPoolData-B2HPMS5-.js";import{u as p}from"./vendor-CIZLyqTL.js";function g(){const t=p(),{setApiPoolInfo:a}=r(),{setDlmmApiPoolInfo:u}=e(),{wrapPoolData:m,wrapDLmmPoolData:s}=n();return{goLiquidity:(o,i)=>{a(m(i)),t(o)},goDlmmLiquidity:(o,i)=>{u(s(i)),t(o)}}}export{g as u};
