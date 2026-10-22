@@ -1,0 +1,18 @@
+Contact: mailto:security@cetus.zone
+
+Vulnerability reports are preferably submitted through
+Cetus's official HackenProof bug bounty program:
+https://hackenproof.com/companies/cetus
+
+Policy: https://www.cetus.zone/terms
+
+Cetus has adopted the SEAL Whitehat Safe Harbor Agreement.
+On-chain agreement:
+https://etherscan.io/address/0x5Fdb4273254FC8019e8C4Faa1D480300D9D332A1
+
+Asset recovery address (Sui):
+0xdbfd0b17fa804c98f51d552b050fb7f850b85db96fa2a0d79e50119525814a47
+
+Preferred-Languages: en
+Canonical: https://www.cetus.zone/.well-known/security.txt
+Expires: 2027-10-19T00:00:00Z
