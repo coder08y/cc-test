@@ -13,7 +13,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -80,7 +80,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -235,7 +235,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
@@ -287,7 +287,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
@@ -626,7 +626,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "789285.85401562483623",
         "totalApr": "0.3063439904214677",
@@ -692,7 +692,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -768,7 +768,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -938,7 +938,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
@@ -1204,7 +1204,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
@@ -1363,7 +1363,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
@@ -1427,7 +1427,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "28691.195248255756464651855151338307230895",
         "totalApr": "0.1840185646909565",
@@ -1508,7 +1508,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
@@ -1773,7 +1773,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
@@ -1837,7 +1837,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
@@ -2041,7 +2041,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -2082,7 +2082,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
@@ -2185,7 +2185,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
@@ -2240,7 +2240,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
@@ -2438,7 +2438,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -2486,7 +2486,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "45378.05122268720997",
         "totalApr": "0.1113143731935935",
@@ -2564,7 +2564,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -2657,7 +2657,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
@@ -3010,7 +3010,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
@@ -3408,7 +3408,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
@@ -3449,7 +3449,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
@@ -3941,7 +3941,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
@@ -4447,7 +4447,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "9589.90570883450928",
         "totalApr": "0.3622396288189135",
@@ -4794,7 +4794,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
@@ -4923,7 +4923,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x854950aa624b1df59fe64e630b2ba7c550642e9342267a33061d59fb31582da5::scallop_usdc::SCALLOP_USDC",
@@ -5008,7 +5008,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
@@ -5071,7 +5071,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -5285,7 +5285,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
@@ -5329,7 +5329,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
@@ -5377,7 +5377,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "18607.6036120936759187335170619579451204134",
         "totalApr": "0.0760494488368375",
@@ -5458,7 +5458,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x876a4b7bce8aeaef60464c11f4026903e9afacab79b9b142686158aa86560b50::xbtc::XBTC",
@@ -6024,7 +6024,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc44d97a4bc4e5a33ca847b72b123172c88a6328196b71414f32c3070233604b2::slp::SLP",
@@ -6065,7 +6065,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
@@ -6238,7 +6238,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -6289,7 +6289,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "2561.2277203324805012135632379374135584362",
         "totalApr": "2.266060104658481",
@@ -6378,7 +6378,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
@@ -6419,7 +6419,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
@@ -6660,7 +6660,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x854950aa624b1df59fe64e630b2ba7c550642e9342267a33061d59fb31582da5::scallop_usdc::SCALLOP_USDC",
@@ -6786,7 +6786,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
@@ -7019,7 +7019,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
@@ -7060,7 +7060,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -7145,7 +7145,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
@@ -7452,7 +7452,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
@@ -7537,7 +7537,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM",
@@ -7619,7 +7619,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -7667,7 +7667,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "14563.627317796438618129901200749594614875",
         "totalApr": "0.004442070598702",
@@ -7783,7 +7783,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
@@ -7834,7 +7834,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "4411.26778825504875",
         "totalApr": "0.489687905615559",
@@ -7871,7 +7871,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
@@ -8213,7 +8213,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
@@ -8346,7 +8346,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "284.51903542042191",
         "totalApr": "0.255117074568512",
@@ -8421,7 +8421,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
@@ -8462,7 +8462,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
@@ -8632,7 +8632,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -8727,7 +8727,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
@@ -9116,7 +9116,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -9384,7 +9384,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -9644,7 +9644,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
@@ -9737,7 +9737,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN",
@@ -9873,7 +9873,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "51.8988808843379803447856992994754418103",
         "totalApr": "0.004043447578342",
@@ -9910,7 +9910,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa340e3db1332c21f20f5c08bef0fa459e733575f9a7e2f5faca64f72cd5a54f2::fomo::FOMO",
@@ -10162,7 +10162,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
@@ -10203,7 +10203,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x361dd589b98e8fcda9a7ee53b85efabef3569d00416640d2faa516e3801d7ffc::TOKEN::TOKEN",
@@ -10370,7 +10370,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3b68324b392cee9cd28eba82df39860b6b220dc89bdd9b21f675d23d6b7416f1::kdx::KDX",
@@ -10466,7 +10466,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbff8dc60d3f714f678cd4490ff08cabbea95d308c6de47a150c79cc875e0c7c6::sbox::SBOX",
@@ -10558,7 +10558,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "193.118102912456051009477976711411799674",
         "totalApr": "0.033332239964649",
@@ -10633,7 +10633,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x90f9eb95f62d31fbe2179313547e360db86d88d2399103a94286291b63f469ba::xo::XO",
@@ -10674,7 +10674,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
@@ -10715,7 +10715,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI",
@@ -10838,7 +10838,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -10879,7 +10879,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -11450,7 +11450,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "568.14119254801452",
         "totalApr": "0.1228611616791025",
@@ -11859,7 +11859,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI",
@@ -11907,7 +11907,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "277.5103936234804098242156050084663397658",
         "totalApr": "0.351539823431895",
@@ -11982,7 +11982,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
@@ -12074,7 +12074,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
@@ -12118,7 +12118,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4c981f3ff786cdb9e514da897ab8a953647dae2ace9679e8358eec1e3e8871ac::dmc::DMC",
@@ -12326,7 +12326,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -12459,7 +12459,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -12551,7 +12551,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "1991.7152060797537846517382706112619326088",
         "totalApr": "0.0149856947718615",
@@ -13288,7 +13288,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
@@ -13750,7 +13750,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x2cd6f14a4b64c3a0fa9c644e8ed88d9c91d789a071886d67d24e6b435147063d::pugwif::PUGWIF",
@@ -14051,7 +14051,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
@@ -14156,7 +14156,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xad4d71551d31092230db1fd482008ea42867dbf27b286e9c70a79d2a6191d58d::scallop_wormhole_usdc::SCALLOP_WORMHOLE_USDC",
@@ -14238,7 +14238,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
@@ -14364,7 +14364,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
@@ -14408,7 +14408,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP",
@@ -14594,7 +14594,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
@@ -14881,7 +14881,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB",
@@ -14922,7 +14922,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
@@ -15257,7 +15257,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "6.3888254721273606543754730876801811778",
         "totalApr": "0.004933776531532",
@@ -15383,7 +15383,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "50.6877922567575288017314182754223585154",
         "totalApr": "0.1037688269154355",
@@ -15458,7 +15458,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -15547,7 +15547,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "34.744210475256347646981054673545889818",
         "totalApr": "0.0616783120415265",
@@ -15752,7 +15752,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "1775.5237904914113174875894711589552354643",
         "totalApr": "0.001021438093961",
@@ -16491,7 +16491,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaf9e228fd0292e2a27b4859bc57a2f3a9faedb9341b6307c84fef163e44790cc::uni::UNI",
@@ -16676,7 +16676,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR",
@@ -16963,7 +16963,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd40cec91f6dca0673b25451fb0d654e62ad13bf6546a32a21ef0c59eba42e71c::daos::DAOS",
@@ -17086,7 +17086,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
@@ -17663,7 +17663,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -17797,7 +17797,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x08c0fe357d3a138f4552bee393ce3a28a45bebcca43373d6a90bc44ab76f82e2::scallop_sb_wbtc::SCALLOP_SB_WBTC",
@@ -17838,7 +17838,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
@@ -17961,7 +17961,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
@@ -18214,7 +18214,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "1.2589244804085",
         "totalApr": "0.00587215776947",
@@ -18289,7 +18289,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc5b61b1e1f7f88511c9c0c6f475f823c66cc4e2d39a49beb6777059710be8404::toilet::TOILET",
@@ -18337,7 +18337,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "16.4306558610043535161923836368122",
         "totalApr": "0.0077184882775995",
@@ -18853,7 +18853,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "5.3925530566683473573890386976411852159",
         "totalApr": "0.01489362019558",
@@ -18887,7 +18887,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x361dd589b98e8fcda9a7ee53b85efabef3569d00416640d2faa516e3801d7ffc::TOKEN::TOKEN",
@@ -18969,7 +18969,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb14f82d8506d139eacef109688d1b71e7236bcce9b2c0ad526abcd6aa5be7de0::scallop_sb_eth::SCALLOP_SB_ETH",
@@ -19010,7 +19010,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaafc4f740de0dd0dde642a31148fb94517087052f19afb0f7bed1dc41a50c77b::scallop_sui::SCALLOP_SUI",
@@ -19420,7 +19420,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xcf72ec52c0f8ddead746252481fb44ff6e8485a39b803825bde6b00d77cdb0bb::coin::COIN",
@@ -19502,7 +19502,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
@@ -19543,7 +19543,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x625d518a3cc78899742d76cf785609cd707e15228d4284aa4fee5ca53caa9849::dgg_token::DGG_TOKEN",
@@ -19789,7 +19789,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa7b184cdd17cc2753b9aa2d3c1a4fcb1ae7e2fd8670ee42180369343bdac9c08::sizu::SIZU",
@@ -19994,7 +19994,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA",
@@ -20202,7 +20202,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -20284,7 +20284,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0ef38abcdaaafedd1e2d88929068a3f65b59bf7ee07d7e8f573c71df02d27522::attn::ATTN",
@@ -20366,7 +20366,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
@@ -20735,7 +20735,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc3f8927de33d3deb52c282a836082a413bc73c6ee0bd4d7ec7e3b6b4c28e9abf::coin::COIN",
@@ -20820,7 +20820,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
@@ -21110,7 +21110,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
@@ -21281,7 +21281,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0000048234448236881167496992512308",
         "totalApr": "0",
@@ -21445,7 +21445,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0013949409946418745045956127858105288",
         "totalApr": "0",
@@ -22083,7 +22083,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
@@ -22206,7 +22206,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP",
@@ -22329,7 +22329,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP",
@@ -22370,7 +22370,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
@@ -22575,7 +22575,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
@@ -22698,7 +22698,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4db126eac4fa99207e98db61d968477021fdeae153de3b244bcfbdc468ef0722::wsb::WSB",
@@ -22910,7 +22910,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0000010009138517009050046569714599775",
         "totalApr": "0",
@@ -22995,7 +22995,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x31348f17429e6b37ed269cc667cc83947ff8c54593dcbd1a56cae06a895a38be::fratt::FRATT",
@@ -23207,7 +23207,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "4.4739967502962025937575800855388696706",
         "totalApr": "0",
@@ -23453,7 +23453,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "1.58543134052745710221656436006648",
         "totalApr": "0",
@@ -23610,7 +23610,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x4cf08813756dfa7519cb480a1a1a3472b5b4ec067592a8bee0f826808d218158::tardi::TARDI",
@@ -23651,7 +23651,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x46fbe54691b27d7abd2c9e5a01088913531f241b98f3c2351f8215e45cc17a4c::times::TIMES",
@@ -24061,7 +24061,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
@@ -24389,7 +24389,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
@@ -25004,7 +25004,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
@@ -25619,7 +25619,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
@@ -25749,7 +25749,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.00000229914894",
         "totalApr": "0",
@@ -25906,7 +25906,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -25947,7 +25947,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI",
@@ -26651,7 +26651,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.00002398069983",
         "totalApr": "0",
@@ -26685,7 +26685,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
@@ -26849,7 +26849,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x294de7579d55c110a00a7c4946e09a1b5cbeca2592fbb83fd7bfacba3cfeaf0e::drf::DRF",
@@ -26972,7 +26972,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
@@ -27136,7 +27136,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
@@ -27300,7 +27300,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x294de7579d55c110a00a7c4946e09a1b5cbeca2592fbb83fd7bfacba3cfeaf0e::drf::DRF",
@@ -27341,7 +27341,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x893aa3f358b70e7dbcf957c64a1f016633630af42fb6097f25c33ef9fa738dd2::cap::CAP",
@@ -27717,7 +27717,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0001160825179647627606963181235559768",
         "totalApr": "0",
@@ -27751,7 +27751,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
@@ -28205,7 +28205,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -28451,7 +28451,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
@@ -28622,7 +28622,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "303.0556444994750661462040564597434252",
         "totalApr": "0",
@@ -28915,7 +28915,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
@@ -28997,7 +28997,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x9c86d1926a0a39e906f20674d6a35f337be8625ebcb6b799ee8ff011f328bee2::liq::LIQ",
@@ -29038,7 +29038,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
@@ -29284,7 +29284,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x66f87084e49c38f76502d17f87d17f943f183bb94117561eb573e075fdc5ff75::coin::COIN",
@@ -29571,7 +29571,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x41ff228bfd566f0c707173ee6413962a77e3929588d010250e4e76f0d1cc0ad4::ksui::KSUI",
@@ -29653,7 +29653,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
@@ -29735,7 +29735,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
@@ -29899,7 +29899,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
@@ -30350,7 +30350,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
@@ -30562,7 +30562,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "267.118012726034613501718592360799570413",
         "totalApr": "0",
@@ -30935,7 +30935,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
@@ -31140,7 +31140,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -31222,7 +31222,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -31345,7 +31345,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
@@ -31427,7 +31427,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd285cbbf54c87fd93cd15227547467bb3e405da8bbf2ab99f83f323f88ac9a65::scallop_usdy::SCALLOP_USDY",
@@ -31560,7 +31560,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
@@ -31642,7 +31642,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
@@ -31724,7 +31724,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
@@ -31765,7 +31765,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
@@ -31888,7 +31888,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
@@ -32134,7 +32134,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb1d7df34829d1513b73ba17cb7ad90c88d1e104bb65ab8f62f13e0cc103783d3::scallop_sb_usdt::SCALLOP_SB_USDT",
@@ -32339,7 +32339,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
@@ -32462,7 +32462,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5a4f64079daed04d923c93f3ac4ee04b637e5b3ea2db87d591981c1049508a27::suilama::SUILAMA",
@@ -32831,7 +32831,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA",
@@ -33459,7 +33459,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -33541,7 +33541,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa7b184cdd17cc2753b9aa2d3c1a4fcb1ae7e2fd8670ee42180369343bdac9c08::sizu::SIZU",
@@ -33582,7 +33582,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
@@ -33671,7 +33671,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.000153999909238844666760314224209585",
         "totalApr": "0",
@@ -33712,7 +33712,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.00004500891225",
         "totalApr": "0",
@@ -34074,7 +34074,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
@@ -34163,7 +34163,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "4.1773656179895233348885530366558040412",
         "totalApr": "0",
@@ -34286,7 +34286,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.00010891854963",
         "totalApr": "0",
@@ -34450,7 +34450,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.00000399652206",
         "totalApr": "0",
@@ -34894,7 +34894,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI",
@@ -34935,7 +34935,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x622345b3f80ea5947567760eec7b9639d0582adcfd6ab9fccb85437aeda7c0d0::scallop_wal::SCALLOP_WAL",
@@ -34983,7 +34983,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0003529925110153896341084739146754",
         "totalApr": "0",
@@ -35222,7 +35222,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
@@ -35714,7 +35714,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
@@ -35762,7 +35762,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0000439969204293241214603267183821998",
         "totalApr": "0",
@@ -35796,7 +35796,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1ef4c0b20340b8c6a59438204467ca71e1e7cbe918526f9c2c6c5444517cd5ca::chirp::CHIRP",
@@ -36001,7 +36001,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
@@ -36042,7 +36042,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb779486cfd6c19e9218cc7dc17c453014d2d9ba12d2ee4dbb0ec4e1e02ae1cca::spt::SPT",
@@ -36083,7 +36083,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -36124,7 +36124,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
@@ -36206,7 +36206,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
@@ -36288,7 +36288,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
@@ -36329,7 +36329,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x506a6fc25f1c7d52ceb06ea44a3114c9380f8e2029b4356019822f248b49e411::memefi::MEMEFI",
@@ -36452,7 +36452,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM",
@@ -36698,7 +36698,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xaf3aae4940a248739ce4964857381fc3f3149a6d05375bfbb2118592907e3bbb::dam::DAM",
@@ -36739,7 +36739,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
@@ -36780,7 +36780,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5ca17430c1d046fae9edeaa8fd76c7b4193a00d764a0ecfa9418d733ad27bc1e::scallop_sca::SCALLOP_SCA",
@@ -36985,7 +36985,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -37026,7 +37026,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -37067,7 +37067,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
@@ -37108,7 +37108,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc3f8927de33d3deb52c282a836082a413bc73c6ee0bd4d7ec7e3b6b4c28e9abf::coin::COIN",
@@ -37395,7 +37395,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3b68324b392cee9cd28eba82df39860b6b220dc89bdd9b21f675d23d6b7416f1::kdx::KDX",
@@ -37570,7 +37570,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
@@ -37734,7 +37734,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x6711551c1e7652a270d9fbf0eee25d99594c157cde3cb5fbb49035eb59b1b001::scallop_fdusd::SCALLOP_FDUSD",
@@ -37980,7 +37980,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x2cf76a9cf5d3337961d1154283234f94da2dcff18544dfe5cbdef65f319591b5::scallop_wormhole_btc::SCALLOP_WORMHOLE_BTC",
@@ -38021,7 +38021,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
@@ -38144,7 +38144,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
@@ -38267,7 +38267,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
@@ -38595,7 +38595,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd1b72982e40348d069bb1ff701e634c117bb5f741f44dff91e472d3b01461e55::stsui::STSUI",
@@ -38841,7 +38841,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06b145d0322e389d6225f336ab57bba4c67e4e701bd6c6bc959d90675900a17e::meow::MEOW",
@@ -39046,7 +39046,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
@@ -39087,7 +39087,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM",
@@ -39333,7 +39333,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1c6cd615ed4c42a34977212a3407a28eec21acc572c8dbe7d0382bf0289a2590::plop::PLOP",
@@ -39381,7 +39381,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "703.3267868266753310107683443716971778344",
         "totalApr": "0",
@@ -39664,7 +39664,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
@@ -39872,7 +39872,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x854950aa624b1df59fe64e630b2ba7c550642e9342267a33061d59fb31582da5::scallop_usdc::SCALLOP_USDC",
@@ -39995,7 +39995,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc3f8927de33d3deb52c282a836082a413bc73c6ee0bd4d7ec7e3b6b4c28e9abf::coin::COIN",
@@ -40077,7 +40077,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd40cec91f6dca0673b25451fb0d654e62ad13bf6546a32a21ef0c59eba42e71c::daos::DAOS",
@@ -40514,7 +40514,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0002880308230611090892853302158205765",
         "totalApr": "0",
@@ -41092,7 +41092,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
@@ -41174,7 +41174,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
@@ -41215,7 +41215,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xd0e89b2af5e4910726fbcd8b8dd37bb79b29e5f83f7491bca830e94f7f226d29::eth::ETH",
@@ -41297,7 +41297,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
@@ -41543,7 +41543,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
@@ -41584,7 +41584,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x9c6d76eb273e6b5ba2ec8d708b7fa336a5531f6be59f326b5be8d4d8b12348a4::coin::COIN",
@@ -41830,7 +41830,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -41953,7 +41953,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x6dd439dee053557b3dd340287a4b81099b3e729cb48fbdae726dd2dff82736c3::slove::SLOVE",
@@ -42165,7 +42165,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.1514525372579637281485974699390685292",
         "totalApr": "0",
@@ -42281,7 +42281,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
@@ -42773,7 +42773,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
@@ -42855,7 +42855,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x1392650f2eca9e3f6ffae3ff89e42a3590d7102b80e2b430f674730bc30d3259::scallop_wormhole_sol::SCALLOP_WORMHOLE_SOL",
@@ -43101,7 +43101,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x5145494a5f5100e645e4b0aa950fa6b68f614e8c59e17bc5ded3495123a79178::ns::NS",
@@ -43265,7 +43265,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::SUIMAN",
@@ -43306,7 +43306,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xbc732bc5f1e9a9f4bdf4c0672ee538dbf56c161afe04ff1de2176efabdf41f92::suai::SUAI",
@@ -43347,7 +43347,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
@@ -43528,7 +43528,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0000016740096640852263532689230404",
         "totalApr": "0",
@@ -43562,7 +43562,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -44016,7 +44016,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
@@ -44064,7 +44064,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.00000599478309",
         "totalApr": "0",
@@ -44146,7 +44146,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "tvl": "0.0001450005061256600712035100345534572",
         "totalApr": "0",
@@ -44180,7 +44180,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
@@ -44221,7 +44221,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x2cd6f14a4b64c3a0fa9c644e8ed88d9c91d789a071886d67d24e6b435147063d::pugwif::PUGWIF",
