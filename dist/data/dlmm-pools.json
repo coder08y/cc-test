@@ -19,7 +19,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "pools": [
           {
@@ -271,7 +271,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
@@ -843,7 +843,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
@@ -1018,7 +1018,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
@@ -1226,7 +1226,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
@@ -1509,7 +1509,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x76a49ebaf991fa2d4cb6a352af14425d453fe2ba6802b5ed2361b227150b6689::take::TAKE",
@@ -2444,7 +2444,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT",
@@ -2837,7 +2837,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "coinB": {
           "coinType": "0x04deb377c33bfced1ab81cde96918e2538fe78735777150b0064ccf7df5e1c81::tato::TATO",
@@ -3134,7 +3134,7 @@
           "symbol": "USDC",
           "decimals": 6,
           "isVerified": true,
-          "logoURL": "https://gateway.irys.xyz/EGpc2cG886CrWwLMneF2RyVpZ7D33a6znz6XE8n8nU7h"
+          "logoURL": "https://res.cetus.zone/coin-metadata/mainnet/icon/0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7_28c8a56e.png"
         },
         "pools": [
           {
