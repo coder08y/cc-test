@@ -1,2 +1,5 @@
+# Missing hashed assets must 404. A 200 rewrite to index.html gets cached as JavaScript.
+/assets/*    /404.html    404
+# App routes still fall back to the SPA.
 /*    /index.html   200
 /*/**    /index.html   200
