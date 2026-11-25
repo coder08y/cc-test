@@ -1,1 +1,0 @@
-import{a as m}from"./dlmm-B-n-B0ih.js";import{bp as a}from"./index-Cu_yr7x1.js";function B(){const t=a("dlmm");return{getBinsInfoByPool:async(i,r,l)=>{const o=await t.Pool.getPoolBinInfo(i);return{allBinObj:Object.fromEntries(o==null?void 0:o.map(n=>[String(n.bin_id),{...n,price:m(n.price_per_lamport,r,l)}])),binList:[...o]}}}}export{B as u};
